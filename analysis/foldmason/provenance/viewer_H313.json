@@ -1,0 +1,144 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "Returned columns from the live Alignment viewer."
+    }
+  ],
+  "structuredContent": {
+    "applied": true,
+    "message": "Returned columns from the live Alignment viewer.",
+    "result": {
+      "coordinateSystem": {
+        "basis": 1,
+        "end": "inclusive",
+        "referenceRowId": null,
+        "space": "alignment-column",
+        "width": 746
+      },
+      "items": [
+        {
+          "column": 688,
+          "conservation": 0.31706945834377637,
+          "consensus": "P",
+          "gapFraction": 0.18181818181818182,
+          "identity": 0.2777777777777778,
+          "rows": [
+            {
+              "rowId": "A0A9X6NI93",
+              "rowLabel": "A0A9X6NI93",
+              "symbol": "P"
+            },
+            {
+              "rowId": "A0A9X6RN34",
+              "rowLabel": "A0A9X6RN34",
+              "symbol": "P"
+            },
+            {
+              "rowId": "A0A1W0X5S1",
+              "rowLabel": "A0A1W0X5S1",
+              "symbol": "P"
+            },
+            {
+              "rowId": "A0A1W0X6E7",
+              "rowLabel": "A0A1W0X6E7",
+              "symbol": "P"
+            },
+            {
+              "rowId": "A0A1S4H1T8",
+              "rowLabel": "A0A1S4H1T8",
+              "symbol": "E"
+            },
+            {
+              "rowId": "Q9V3H0",
+              "rowLabel": "Q9V3H0",
+              "symbol": "S"
+            },
+            {
+              "rowId": "A0A1D1UN11",
+              "rowLabel": "A0A1D1UN11",
+              "symbol": "G"
+            },
+            {
+              "rowId": "A0A1W0WC24",
+              "rowLabel": "A0A1W0WC24",
+              "symbol": "T"
+            },
+            {
+              "rowId": "E9GG77",
+              "rowLabel": "E9GG77",
+              "symbol": "-"
+            },
+            {
+              "rowId": "A0A8W8K8J4",
+              "rowLabel": "A0A8W8K8J4",
+              "symbol": "E"
+            },
+            {
+              "rowId": "R7TWY3",
+              "rowLabel": "R7TWY3",
+              "symbol": "N"
+            },
+            {
+              "rowId": "A0A9J7NBV2",
+              "rowLabel": "A0A9J7NBV2",
+              "symbol": "K"
+            },
+            {
+              "rowId": "Q9DGL7",
+              "rowLabel": "Q9DGL7",
+              "symbol": "-"
+            },
+            {
+              "rowId": "O54788",
+              "rowLabel": "O54788",
+              "symbol": "H"
+            },
+            {
+              "rowId": "O76075",
+              "rowLabel": "O76075",
+              "symbol": "H"
+            },
+            {
+              "rowId": "B1WBL0",
+              "rowLabel": "B1WBL0",
+              "symbol": "H"
+            },
+            {
+              "rowId": "Q8UVS5",
+              "rowLabel": "Q8UVS5",
+              "symbol": "H"
+            },
+            {
+              "rowId": "A0A1D1VEE8",
+              "rowLabel": "A0A1D1VEE8",
+              "symbol": "-"
+            },
+            {
+              "rowId": "A7RES0",
+              "rowLabel": "A7RES0",
+              "symbol": "E"
+            },
+            {
+              "rowId": "A0A1D1V801",
+              "rowLabel": "A0A1D1V801",
+              "symbol": "-"
+            },
+            {
+              "rowId": "A0A1D1UJN5",
+              "rowLabel": "A0A1D1UJN5",
+              "symbol": "L"
+            },
+            {
+              "rowId": "A0A9X6RM91",
+              "rowLabel": "A0A9X6RM91",
+              "symbol": "P"
+            }
+          ]
+        }
+      ],
+      "target": "columns"
+    },
+    "schemaVersion": 1
+  }
+}

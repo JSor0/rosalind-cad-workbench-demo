@@ -1,0 +1,342 @@
+<?xml version="1.0" encoding="UTF-8"  ?>
+<!DOCTYPE GBSet PUBLIC "-//NCBI//NCBI GBSeq/EN" "https://www.ncbi.nlm.nih.gov/dtd/NCBI_GBSeq.dtd">
+<GBSet>
+  <GBSeq>
+
+    <GBSeq_locus>OQV22896</GBSeq_locus>
+    <GBSeq_length>423</GBSeq_length>
+    <GBSeq_moltype>AA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>INV</GBSeq_division>
+    <GBSeq_update-date>04-MAR-2022</GBSeq_update-date>
+    <GBSeq_create-date>07-APR-2017</GBSeq_create-date>
+    <GBSeq_definition>hypothetical protein BV898_03327 [Hypsibius exemplaris]</GBSeq_definition>
+    <GBSeq_primary-accession>OQV22896</GBSeq_primary-accession>
+    <GBSeq_accession-version>OQV22896.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>gb|OQV22896.1|</GBSeqid>
+      <GBSeqid>gnl|WGS:MTYJ|BV898_03327.1</GBSeqid>
+      <GBSeqid>gi|1174754903</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_project>PRJNA360553</GBSeq_project>
+    <GBSeq_source>Hypsibius exemplaris</GBSeq_source>
+    <GBSeq_organism>Hypsibius exemplaris</GBSeq_organism>
+    <GBSeq_taxonomy>Eukaryota; Metazoa; Ecdysozoa; Tardigrada; Eutardigrada; Parachela; Hypsibioidea; Hypsibiidae; Hypsibius</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..423</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Yoshida,Y.</GBAuthor>
+          <GBAuthor>Koutsovoulos,G.</GBAuthor>
+          <GBAuthor>Laetsch,D.R.</GBAuthor>
+          <GBAuthor>Stevens,L.</GBAuthor>
+          <GBAuthor>Kumar,S.</GBAuthor>
+          <GBAuthor>Horikawa,D.D.</GBAuthor>
+          <GBAuthor>Ishino,K.</GBAuthor>
+          <GBAuthor>Komine,S.</GBAuthor>
+          <GBAuthor>Kunieda,T.</GBAuthor>
+          <GBAuthor>Tomita,M.</GBAuthor>
+          <GBAuthor>Blaxter,M.</GBAuthor>
+          <GBAuthor>Arakawa,K.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Comparative genomics of the tardigrades Hypsibius dujardini and Ramazzottius varieornatus</GBReference_title>
+        <GBReference_journal>PLoS Biol 15 (7), e2002266 (2017)</GBReference_journal>
+        <GBReference_xref>
+          <GBXref>
+            <GBXref_dbname>doi</GBXref_dbname>
+            <GBXref_id>10.1371/journal.pbio.2002266</GBXref_id>
+          </GBXref>
+        </GBReference_xref>
+        <GBReference_pubmed>28749982</GBReference_pubmed>
+      </GBReference>
+      <GBReference>
+        <GBReference_reference>2</GBReference_reference>
+        <GBReference_position>1..423</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Yoshida,Y.</GBAuthor>
+          <GBAuthor>Koutsovoulos,G.</GBAuthor>
+          <GBAuthor>Laetsch,D.</GBAuthor>
+          <GBAuthor>Stevens,L.</GBAuthor>
+          <GBAuthor>Kumar,S.</GBAuthor>
+          <GBAuthor>Horikawa,D.</GBAuthor>
+          <GBAuthor>Ishino,K.</GBAuthor>
+          <GBAuthor>Komine,S.</GBAuthor>
+          <GBAuthor>Tomita,M.</GBAuthor>
+          <GBAuthor>Blaxter,M.</GBAuthor>
+          <GBAuthor>Arakawa,K.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Direct Submission</GBReference_title>
+        <GBReference_journal>Submitted (27-JAN-2017) [submission contact location omitted from public sharing copy]</GBReference_journal>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_comment>~Annotation was updated on the contigs in June 2017~The organism was updated from Hypsibius dujardini strain Z151 to Hypsibius exemplaris strain Z151 in March 2022 because that strain was reclassified in Gasiorek et al. Zootaxa 2018 (https://pubmed.ncbi.nlm.nih.gov/30313631/ ).; ##Genome-Assembly-Data-START## ; Assembly Method :: Platanus v. 1.2.3 ; Assembly Name :: nHd_3.1 ; Genome Coverage :: 113.0x ; Sequencing Technology :: PacBio; Illumina HiSeq ; ##Genome-Assembly-Data-END##; Method: conceptual translation.</GBSeq_comment>
+    <GBSeq_source-db>accession MTYJ01000015.1</GBSeq_source-db>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..423</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>423</GBInterval_to>
+            <GBInterval_accession>OQV22896.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>Hypsibius exemplaris</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>strain</GBQualifier_name>
+            <GBQualifier_value>Z151</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:2072580</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>sex</GBQualifier_name>
+            <GBQualifier_value>pooled male and female</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>tissue_type</GBQualifier_name>
+            <GBQualifier_value>All body</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>Protein</GBFeature_key>
+        <GBFeature_location>1..423</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>423</GBInterval_to>
+            <GBInterval_accession>OQV22896.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>product</GBQualifier_name>
+            <GBQualifier_value>hypothetical protein</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>calculated_mol_wt</GBQualifier_name>
+            <GBQualifier_value>48111</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>CDS</GBFeature_key>
+        <GBFeature_location>1..423</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>423</GBInterval_to>
+            <GBInterval_accession>OQV22896.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>locus_tag</GBQualifier_name>
+            <GBQualifier_value>BV898_03327</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>coded_by</GBQualifier_name>
+            <GBQualifier_value>join(MTYJ01000015.1:724181..724402,MTYJ01000015.1:724978..725113,MTYJ01000015.1:725647..725726,MTYJ01000015.1:725933..726089,MTYJ01000015.1:726202..726293,MTYJ01000015.1:726351..726906,MTYJ01000015.1:726976..727004)</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>note</GBQualifier_name>
+            <GBQualifier_value>Derived by automated computational analysis using gene prediction method: BRAKER v1.9</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>transl_table</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>msprgkasmssrkkdsgrtsvaststpdpnptsqelevdlvrqlnkiifklkeeernekeyqenlrgkdntekraismakakeiankrsrfveaermlqlqsypdgeeslddagvegardgplaksqtntnndladtmeglsladevypvmplggdehlvdgvpnlayadlvtalyengyrvpeivvqcrcgrrlrveegqmdrlkmesieedreffafnsnkwtcksqvelefqrdklkgygnngrgkmkislgklneiqekkwnklnvhlrtfqnrrvavnaeclvgssgwiecsgrlfdlnrawektcedrlhkfvtlrgspkalhrakviendhvrgqaliiaalnilvgefmaeededkmdelaleieaemenlfsadkirithrcchetanrpdvefpvnvhpevkhrsfrartkqq</GBSeq_sequence>
+    <GBSeq_xrefs>
+      <GBXref>
+        <GBXref_dbname>BioProject</GBXref_dbname>
+        <GBXref_id>PRJNA360553</GBXref_id>
+      </GBXref>
+      <GBXref>
+        <GBXref_dbname>BioSample</GBXref_dbname>
+        <GBXref_id>SAMN06212344</GBXref_id>
+      </GBXref>
+    </GBSeq_xrefs>
+  </GBSeq>
+
+  <GBSeq>
+
+    <GBSeq_locus>OQV22897</GBSeq_locus>
+    <GBSeq_length>428</GBSeq_length>
+    <GBSeq_moltype>AA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>INV</GBSeq_division>
+    <GBSeq_update-date>04-MAR-2022</GBSeq_update-date>
+    <GBSeq_create-date>07-APR-2017</GBSeq_create-date>
+    <GBSeq_definition>hypothetical protein BV898_03327 [Hypsibius exemplaris]</GBSeq_definition>
+    <GBSeq_primary-accession>OQV22897</GBSeq_primary-accession>
+    <GBSeq_accession-version>OQV22897.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>gb|OQV22897.1|</GBSeqid>
+      <GBSeqid>gnl|WGS:MTYJ|BV898_03327.2</GBSeqid>
+      <GBSeqid>gi|1174754904</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_project>PRJNA360553</GBSeq_project>
+    <GBSeq_source>Hypsibius exemplaris</GBSeq_source>
+    <GBSeq_organism>Hypsibius exemplaris</GBSeq_organism>
+    <GBSeq_taxonomy>Eukaryota; Metazoa; Ecdysozoa; Tardigrada; Eutardigrada; Parachela; Hypsibioidea; Hypsibiidae; Hypsibius</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..428</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Yoshida,Y.</GBAuthor>
+          <GBAuthor>Koutsovoulos,G.</GBAuthor>
+          <GBAuthor>Laetsch,D.R.</GBAuthor>
+          <GBAuthor>Stevens,L.</GBAuthor>
+          <GBAuthor>Kumar,S.</GBAuthor>
+          <GBAuthor>Horikawa,D.D.</GBAuthor>
+          <GBAuthor>Ishino,K.</GBAuthor>
+          <GBAuthor>Komine,S.</GBAuthor>
+          <GBAuthor>Kunieda,T.</GBAuthor>
+          <GBAuthor>Tomita,M.</GBAuthor>
+          <GBAuthor>Blaxter,M.</GBAuthor>
+          <GBAuthor>Arakawa,K.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Comparative genomics of the tardigrades Hypsibius dujardini and Ramazzottius varieornatus</GBReference_title>
+        <GBReference_journal>PLoS Biol 15 (7), e2002266 (2017)</GBReference_journal>
+        <GBReference_xref>
+          <GBXref>
+            <GBXref_dbname>doi</GBXref_dbname>
+            <GBXref_id>10.1371/journal.pbio.2002266</GBXref_id>
+          </GBXref>
+        </GBReference_xref>
+        <GBReference_pubmed>28749982</GBReference_pubmed>
+      </GBReference>
+      <GBReference>
+        <GBReference_reference>2</GBReference_reference>
+        <GBReference_position>1..428</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Yoshida,Y.</GBAuthor>
+          <GBAuthor>Koutsovoulos,G.</GBAuthor>
+          <GBAuthor>Laetsch,D.</GBAuthor>
+          <GBAuthor>Stevens,L.</GBAuthor>
+          <GBAuthor>Kumar,S.</GBAuthor>
+          <GBAuthor>Horikawa,D.</GBAuthor>
+          <GBAuthor>Ishino,K.</GBAuthor>
+          <GBAuthor>Komine,S.</GBAuthor>
+          <GBAuthor>Tomita,M.</GBAuthor>
+          <GBAuthor>Blaxter,M.</GBAuthor>
+          <GBAuthor>Arakawa,K.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Direct Submission</GBReference_title>
+        <GBReference_journal>Submitted (27-JAN-2017) [submission contact location omitted from public sharing copy]</GBReference_journal>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_comment>~Annotation was updated on the contigs in June 2017~The organism was updated from Hypsibius dujardini strain Z151 to Hypsibius exemplaris strain Z151 in March 2022 because that strain was reclassified in Gasiorek et al. Zootaxa 2018 (https://pubmed.ncbi.nlm.nih.gov/30313631/ ).; ##Genome-Assembly-Data-START## ; Assembly Method :: Platanus v. 1.2.3 ; Assembly Name :: nHd_3.1 ; Genome Coverage :: 113.0x ; Sequencing Technology :: PacBio; Illumina HiSeq ; ##Genome-Assembly-Data-END##; Method: conceptual translation.</GBSeq_comment>
+    <GBSeq_source-db>accession MTYJ01000015.1</GBSeq_source-db>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..428</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>428</GBInterval_to>
+            <GBInterval_accession>OQV22897.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>Hypsibius exemplaris</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>strain</GBQualifier_name>
+            <GBQualifier_value>Z151</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:2072580</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>sex</GBQualifier_name>
+            <GBQualifier_value>pooled male and female</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>tissue_type</GBQualifier_name>
+            <GBQualifier_value>All body</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>Protein</GBFeature_key>
+        <GBFeature_location>1..428</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>428</GBInterval_to>
+            <GBInterval_accession>OQV22897.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>product</GBQualifier_name>
+            <GBQualifier_value>hypothetical protein</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>calculated_mol_wt</GBQualifier_name>
+            <GBQualifier_value>48581</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>CDS</GBFeature_key>
+        <GBFeature_location>1..428</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>428</GBInterval_to>
+            <GBInterval_accession>OQV22897.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>locus_tag</GBQualifier_name>
+            <GBQualifier_value>BV898_03327</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>coded_by</GBQualifier_name>
+            <GBQualifier_value>join(MTYJ01000015.1:724181..724402,MTYJ01000015.1:724978..725113,MTYJ01000015.1:725647..725726,MTYJ01000015.1:725933..726104,MTYJ01000015.1:726202..726293,MTYJ01000015.1:726351..726906,MTYJ01000015.1:726976..727004)</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>note</GBQualifier_name>
+            <GBQualifier_value>Derived by automated computational analysis using gene prediction method: BRAKER v1.9</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>transl_table</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>msprgkasmssrkkdsgrtsvaststpdpnptsqelevdlvrqlnkiifklkeeernekeyqenlrgkdntekraismakakeiankrsrfveaermlqlqsypdgeeslddagvegardgplaksqtntnndladtmeglsladevypvmplggdehlvdgvpnlayadlvtalyengyrvpeivvqcrcgrrlrvegpitckgqmdrlkmesieedreffafnsnkwtcksqvelefqrdklkgygnngrgkmkislgklneiqekkwnklnvhlrtfqnrrvavnaeclvgssgwiecsgrlfdlnrawektcedrlhkfvtlrgspkalhrakviendhvrgqaliiaalnilvgefmaeededkmdelaleieaemenlfsadkirithrcchetanrpdvefpvnvhpevkhrsfrartkqq</GBSeq_sequence>
+    <GBSeq_xrefs>
+      <GBXref>
+        <GBXref_dbname>BioProject</GBXref_dbname>
+        <GBXref_id>PRJNA360553</GBXref_id>
+      </GBXref>
+      <GBXref>
+        <GBXref_dbname>BioSample</GBXref_dbname>
+        <GBXref_id>SAMN06212344</GBXref_id>
+      </GBXref>
+    </GBSeq_xrefs>
+  </GBSeq>
+
+</GBSet>

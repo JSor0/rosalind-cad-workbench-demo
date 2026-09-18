@@ -1,0 +1,59 @@
+{
+  "assets": [
+    {
+      "source_path": "archived-external-location:ChatGPT Image Sep 16, 2026, 06_18_23 PM (1).png",
+      "package_path": "mouse_teal.png",
+      "sha256": "24b06085ec1d1c03d764b1c2cc37e6fad334b17340e6b19bc35293d3c6a5e196",
+      "mode": "RGBA",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "alpha_bounds": [
+        101,
+        383,
+        1153,
+        945
+      ],
+      "user_approval": "User supplied these files as the approved icons in the V6 turn",
+      "changes": "None; byte-identical copy"
+    },
+    {
+      "source_path": "archived-external-location:ChatGPT Image Sep 16, 2026, 06_18_23 PM (2).png",
+      "package_path": "tardigrade_active.png",
+      "sha256": "d25b5ec8799ce3f1855a5eb84647e49119c4fed2bcddaf979c1dcffdcd597ae1",
+      "mode": "RGBA",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "alpha_bounds": [
+        93,
+        51,
+        1209,
+        1212
+      ],
+      "user_approval": "User supplied these files as the approved icons in the V6 turn",
+      "changes": "None; byte-identical copy"
+    },
+    {
+      "source_path": "archived-external-location:ChatGPT Image Sep 16, 2026, 06_18_23 PM (3).png",
+      "package_path": "tardigrade_tun.png",
+      "sha256": "724cb01b3572c99c1191013331014d77556e2757f5769ada0a0f1d95243f74d6",
+      "mode": "RGBA",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "alpha_bounds": [
+        254,
+        53,
+        1065,
+        1212
+      ],
+      "user_approval": "User supplied these files as the approved icons in the V6 turn",
+      "changes": "None; byte-identical copy"
+    }
+  ],
+  "scope": "User-approved presentation icons only, not anatomical evidence; no redraw or regeneration"
+}

@@ -1,0 +1,529 @@
+{
+  "sessionId": "10bb1b8c-27d9-400e-b977-c39e35c65971",
+  "reference": "Experimental mouse CAD 1V0D chainA instanceASM-1; 244 C-alpha residues 85-328",
+  "analysis": "Fresh Mol* TM-align of existing predicted models to experimental coordinates; entire selected protein chain; no activity inference",
+  "records": [
+    {
+      "id": "WC24",
+      "accession": "A0A1W0WC24",
+      "result": {
+        "content": [
+          {
+            "type": "text",
+            "text": "Aligned Chain A in structure object WC24, instance 1_555 to Chain A in structure object primary, instance ASM-1 with structure superposition: RMSD 1.955 Å across 244 aligned positions."
+          }
+        ],
+        "structuredContent": {
+          "applied": true,
+          "message": "Aligned Chain A in structure object WC24, instance 1_555 to Chain A in structure object primary, instance ASM-1 with structure superposition: RMSD 1.955 Å across 244 aligned positions.",
+          "state": {
+            "alignment": {
+              "alignedCount": 244,
+              "matrix": [
+                0.9995860923988432,
+                0.004730023747626794,
+                0.028377291417201134,
+                0,
+                -0.006221081098742518,
+                0.9985916425271231,
+                0.05268803771990184,
+                0,
+                -0.028088110345709252,
+                -0.052842767188687384,
+                0.998207743720424,
+                0,
+                2.081760807291955,
+                3.234923101347398,
+                -3.6452745375892017,
+                1
+              ],
+              "method": "structure",
+              "provenance": {
+                "implementation": {
+                  "library": "Mol*",
+                  "version": "5.11.0",
+                  "routine": "tmAlign"
+                },
+                "correspondence": {
+                  "kind": "selected-protein-residue-c-alpha",
+                  "description": "One C-alpha coordinate per selected atomic protein residue is supplied to Mol* tmAlign; tmAlign determines the aligned correspondence."
+                }
+              },
+              "rmsd": 1.9547156792891724,
+              "tmScoreMobile": 0.6346818185091225,
+              "tmScoreReference": 0.9191176177852891,
+              "mobileTarget": {
+                "instanceId": "1_555",
+                "objectId": "WC24",
+                "chain": "A",
+                "kind": "chain"
+              },
+              "referenceTarget": {
+                "instanceId": "ASM-1",
+                "objectId": "primary",
+                "chain": "A",
+                "kind": "chain"
+              },
+              "appliedMatrix": [
+                0.9995860923988432,
+                0.004730023747626794,
+                0.028377291417201134,
+                0,
+                -0.006221081098742518,
+                0.9985916425271231,
+                0.05268803771990184,
+                0,
+                -0.028088110345709252,
+                -0.052842767188687384,
+                0.998207743720424,
+                0,
+                2.081760807291955,
+                3.234923101347398,
+                -3.6452745375892017,
+                1
+              ],
+              "mobileObjectId": "WC24",
+              "referenceObjectId": "primary"
+            },
+            "appliedRevision": 10
+          }
+        }
+      }
+    },
+    {
+      "id": "RM91",
+      "accession": "A0A9X6RM91",
+      "result": {
+        "content": [
+          {
+            "type": "text",
+            "text": "Aligned Chain A in structure object RM91, instance 1_555 to Chain A in structure object primary, instance ASM-1 with structure superposition: RMSD 12.597 Å across 241 aligned positions."
+          }
+        ],
+        "structuredContent": {
+          "applied": true,
+          "message": "Aligned Chain A in structure object RM91, instance 1_555 to Chain A in structure object primary, instance ASM-1 with structure superposition: RMSD 12.597 Å across 241 aligned positions.",
+          "state": {
+            "alignment": {
+              "alignedCount": 241,
+              "matrix": [
+                0.9999980557549774,
+                0.00013828132627070446,
+                0.0019670700171984874,
+                0,
+                -0.00013376895286271398,
+                0.9999973600532999,
+                -0.00229390326288521,
+                0,
+                -0.001967382028231034,
+                0.002293635670072781,
+                0.9999954343111586,
+                0,
+                0.1160679164311891,
+                -0.1177363170985621,
+                -0.08929549486897471,
+                1
+              ],
+              "method": "structure",
+              "provenance": {
+                "implementation": {
+                  "library": "Mol*",
+                  "version": "5.11.0",
+                  "routine": "tmAlign"
+                },
+                "correspondence": {
+                  "kind": "selected-protein-residue-c-alpha",
+                  "description": "One C-alpha coordinate per selected atomic protein residue is supplied to Mol* tmAlign; tmAlign determines the aligned correspondence."
+                }
+              },
+              "rmsd": 12.597232887806602,
+              "tmScoreMobile": 0.5339955024283721,
+              "tmScoreReference": 0.7882149510863734,
+              "mobileTarget": {
+                "instanceId": "1_555",
+                "objectId": "RM91",
+                "chain": "A",
+                "kind": "chain"
+              },
+              "referenceTarget": {
+                "instanceId": "ASM-1",
+                "objectId": "primary",
+                "chain": "A",
+                "kind": "chain"
+              },
+              "appliedMatrix": [
+                0.9999980557549774,
+                0.00013828132627070446,
+                0.0019670700171984874,
+                0,
+                -0.00013376895286271398,
+                0.9999973600532999,
+                -0.00229390326288521,
+                0,
+                -0.001967382028231034,
+                0.002293635670072781,
+                0.9999954343111586,
+                0,
+                0.1160679164311891,
+                -0.1177363170985621,
+                -0.08929549486897471,
+                1
+              ],
+              "mobileObjectId": "RM91",
+              "referenceObjectId": "primary"
+            },
+            "appliedRevision": 13
+          }
+        }
+      }
+    },
+    {
+      "id": "RN34",
+      "accession": "A0A9X6RN34",
+      "result": {
+        "content": [
+          {
+            "type": "text",
+            "text": "Aligned Chain A in structure object RN34, instance 1_555 to Chain A in structure object primary, instance ASM-1 with structure superposition: RMSD 6.902 Å across 213 aligned positions."
+          }
+        ],
+        "structuredContent": {
+          "applied": true,
+          "message": "Aligned Chain A in structure object RN34, instance 1_555 to Chain A in structure object primary, instance ASM-1 with structure superposition: RMSD 6.902 Å across 213 aligned positions.",
+          "state": {
+            "alignment": {
+              "alignedCount": 213,
+              "matrix": [
+                0.9995685828186087,
+                -0.026481434297124583,
+                0.012703620706223074,
+                0,
+                0.026374719036330076,
+                0.9996160253458063,
+                0.008495655133613384,
+                0,
+                -0.012923719945710439,
+                -0.008156935574204152,
+                0.9998832141263966,
+                0,
+                0.05972810089632301,
+                2.5324909898264716,
+                -1.1603467888496062,
+                1
+              ],
+              "method": "structure",
+              "provenance": {
+                "implementation": {
+                  "library": "Mol*",
+                  "version": "5.11.0",
+                  "routine": "tmAlign"
+                },
+                "correspondence": {
+                  "kind": "selected-protein-residue-c-alpha",
+                  "description": "One C-alpha coordinate per selected atomic protein residue is supplied to Mol* tmAlign; tmAlign determines the aligned correspondence."
+                }
+              },
+              "rmsd": 6.902416938149633,
+              "tmScoreMobile": 0.3479468654633494,
+              "tmScoreReference": 0.677651009304877,
+              "mobileTarget": {
+                "instanceId": "1_555",
+                "objectId": "RN34",
+                "chain": "A",
+                "kind": "chain"
+              },
+              "referenceTarget": {
+                "instanceId": "ASM-1",
+                "objectId": "primary",
+                "chain": "A",
+                "kind": "chain"
+              },
+              "appliedMatrix": [
+                0.9995685828186087,
+                -0.026481434297124583,
+                0.012703620706223074,
+                0,
+                0.026374719036330076,
+                0.9996160253458063,
+                0.008495655133613384,
+                0,
+                -0.012923719945710439,
+                -0.008156935574204152,
+                0.9998832141263966,
+                0,
+                0.05972810089632301,
+                2.5324909898264716,
+                -1.1603467888496062,
+                1
+              ],
+              "mobileObjectId": "RN34",
+              "referenceObjectId": "primary"
+            },
+            "appliedRevision": 16
+          }
+        }
+      }
+    },
+    {
+      "id": "NI93",
+      "accession": "A0A9X6NI93",
+      "result": {
+        "content": [
+          {
+            "type": "text",
+            "text": "Aligned Chain A in structure object NI93, instance 1_555 to Chain A in structure object primary, instance ASM-1 with structure superposition: RMSD 22.745 Å across 237 aligned positions."
+          }
+        ],
+        "structuredContent": {
+          "applied": true,
+          "message": "Aligned Chain A in structure object NI93, instance 1_555 to Chain A in structure object primary, instance ASM-1 with structure superposition: RMSD 22.745 Å across 237 aligned positions.",
+          "state": {
+            "alignment": {
+              "alignedCount": 237,
+              "matrix": [
+                0.9813749781947939,
+                -0.14295696130444435,
+                0.12832170313668273,
+                0,
+                0.14890939406514292,
+                0.9881201103899092,
+                -0.03800841842482411,
+                0,
+                -0.12136368748703752,
+                0.056408817808957235,
+                0.9910039862105363,
+                0,
+                5.2708805676559445,
+                6.720039098479545,
+                -8.006171618773807,
+                1
+              ],
+              "method": "structure",
+              "provenance": {
+                "implementation": {
+                  "library": "Mol*",
+                  "version": "5.11.0",
+                  "routine": "tmAlign"
+                },
+                "correspondence": {
+                  "kind": "selected-protein-residue-c-alpha",
+                  "description": "One C-alpha coordinate per selected atomic protein residue is supplied to Mol* tmAlign; tmAlign determines the aligned correspondence."
+                }
+              },
+              "rmsd": 22.7446171525512,
+              "tmScoreMobile": 0.36244249632157705,
+              "tmScoreReference": 0.545733058911299,
+              "mobileTarget": {
+                "instanceId": "1_555",
+                "objectId": "NI93",
+                "chain": "A",
+                "kind": "chain"
+              },
+              "referenceTarget": {
+                "instanceId": "ASM-1",
+                "objectId": "primary",
+                "chain": "A",
+                "kind": "chain"
+              },
+              "appliedMatrix": [
+                0.9813749781947939,
+                -0.14295696130444435,
+                0.12832170313668273,
+                0,
+                0.14890939406514292,
+                0.9881201103899092,
+                -0.03800841842482411,
+                0,
+                -0.12136368748703752,
+                0.056408817808957235,
+                0.9910039862105363,
+                0,
+                5.2708805676559445,
+                6.720039098479545,
+                -8.006171618773807,
+                1
+              ],
+              "mobileObjectId": "NI93",
+              "referenceObjectId": "primary"
+            },
+            "appliedRevision": 19
+          }
+        }
+      }
+    },
+    {
+      "id": "X5S1",
+      "accession": "A0A1W0X5S1",
+      "result": {
+        "content": [
+          {
+            "type": "text",
+            "text": "Aligned Chain A in structure object X5S1, instance 1_555 to Chain A in structure object primary, instance ASM-1 with structure superposition: RMSD 11.896 Å across 234 aligned positions."
+          }
+        ],
+        "structuredContent": {
+          "applied": true,
+          "message": "Aligned Chain A in structure object X5S1, instance 1_555 to Chain A in structure object primary, instance ASM-1 with structure superposition: RMSD 11.896 Å across 234 aligned positions.",
+          "state": {
+            "alignment": {
+              "alignedCount": 234,
+              "matrix": [
+                0.9999878886595212,
+                0.0006852281425092932,
+                0.004873704451583616,
+                0,
+                -0.0007319202130510761,
+                0.9999537941623097,
+                0.009585083575941008,
+                0,
+                -0.004866911288527864,
+                -0.009588534650756602,
+                0.9999421849138064,
+                0,
+                0.3346716368968236,
+                0.6468000724175887,
+                -0.8533921747303775,
+                1
+              ],
+              "method": "structure",
+              "provenance": {
+                "implementation": {
+                  "library": "Mol*",
+                  "version": "5.11.0",
+                  "routine": "tmAlign"
+                },
+                "correspondence": {
+                  "kind": "selected-protein-residue-c-alpha",
+                  "description": "One C-alpha coordinate per selected atomic protein residue is supplied to Mol* tmAlign; tmAlign determines the aligned correspondence."
+                }
+              },
+              "rmsd": 11.895746098612113,
+              "tmScoreMobile": 0.38918067719193455,
+              "tmScoreReference": 0.6280352926173399,
+              "mobileTarget": {
+                "instanceId": "1_555",
+                "objectId": "X5S1",
+                "chain": "A",
+                "kind": "chain"
+              },
+              "referenceTarget": {
+                "instanceId": "ASM-1",
+                "objectId": "primary",
+                "chain": "A",
+                "kind": "chain"
+              },
+              "appliedMatrix": [
+                0.9999878886595212,
+                0.0006852281425092932,
+                0.004873704451583616,
+                0,
+                -0.0007319202130510761,
+                0.9999537941623097,
+                0.009585083575941008,
+                0,
+                -0.004866911288527864,
+                -0.009588534650756602,
+                0.9999421849138064,
+                0,
+                0.3346716368968236,
+                0.6468000724175887,
+                -0.8533921747303775,
+                1
+              ],
+              "mobileObjectId": "X5S1",
+              "referenceObjectId": "primary"
+            },
+            "appliedRevision": 22
+          }
+        }
+      }
+    },
+    {
+      "id": "X6E7",
+      "accession": "A0A1W0X6E7",
+      "result": {
+        "content": [
+          {
+            "type": "text",
+            "text": "Aligned Chain A in structure object X6E7, instance 1_555 to Chain A in structure object primary, instance ASM-1 with structure superposition: RMSD 19.412 Å across 159 aligned positions."
+          }
+        ],
+        "structuredContent": {
+          "applied": true,
+          "message": "Aligned Chain A in structure object X6E7, instance 1_555 to Chain A in structure object primary, instance ASM-1 with structure superposition: RMSD 19.412 Å across 159 aligned positions.",
+          "state": {
+            "alignment": {
+              "alignedCount": 159,
+              "matrix": [
+                0.999963026417017,
+                -0.006278589959080727,
+                0.005875806523757557,
+                0,
+                0.00612844406917227,
+                0.9996628489655383,
+                0.025231538362951573,
+                0,
+                -0.006032243982957622,
+                -0.025194595908563416,
+                0.9996643658381025,
+                0,
+                0.19032792305540222,
+                2.7046136018744575,
+                -0.8021001304798633,
+                0.9999999999999998
+              ],
+              "method": "structure",
+              "provenance": {
+                "implementation": {
+                  "library": "Mol*",
+                  "version": "5.11.0",
+                  "routine": "tmAlign"
+                },
+                "correspondence": {
+                  "kind": "selected-protein-residue-c-alpha",
+                  "description": "One C-alpha coordinate per selected atomic protein residue is supplied to Mol* tmAlign; tmAlign determines the aligned correspondence."
+                }
+              },
+              "rmsd": 19.412419319799056,
+              "tmScoreMobile": 0.24993473431792293,
+              "tmScoreReference": 0.31871363384896234,
+              "mobileTarget": {
+                "instanceId": "1_555",
+                "objectId": "X6E7",
+                "chain": "A",
+                "kind": "chain"
+              },
+              "referenceTarget": {
+                "instanceId": "ASM-1",
+                "objectId": "primary",
+                "chain": "A",
+                "kind": "chain"
+              },
+              "appliedMatrix": [
+                0.999963026417017,
+                -0.006278589959080727,
+                0.005875806523757557,
+                0,
+                0.00612844406917227,
+                0.9996628489655383,
+                0.025231538362951573,
+                0,
+                -0.006032243982957622,
+                -0.025194595908563416,
+                0.9996643658381025,
+                0,
+                0.19032792305540222,
+                2.7046136018744575,
+                -0.8021001304798633,
+                0.9999999999999998
+              ],
+              "mobileObjectId": "X6E7",
+              "referenceObjectId": "primary"
+            },
+            "appliedRevision": 25
+          }
+        }
+      }
+    }
+  ]
+}

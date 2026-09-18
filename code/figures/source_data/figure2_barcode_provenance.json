@@ -1,0 +1,25 @@
+{
+  "operation": "Display encoding of saved alignment columns; no new search, alignment, scoring or biological analysis",
+  "source_file": "evidence/main/structural/forward_afdb50/aln.csv",
+  "source_sha256": "7c1504c00fa2cb73a39892534d7440ffe7b2337e3257f534dd886fa7837ca5a5",
+  "selected_target": "AF-A0A1W0X5S1-F1-model_v6",
+  "native_fident": "0.151",
+  "alignment_columns": 211,
+  "classes": {
+    "identical": 32,
+    "different": 139,
+    "gap": 40
+  },
+  "mouse_numbering": "query positions +131, checked against preserved reference coordinate sequence",
+  "authority_limit": "This barcode is the fresh forward Foldseek alignment, not the fixed historical US-align correspondence used for key residues. All original gaps and columns are retained. No similarity score or conservation estimate is calculated.",
+  "reported_spans": {
+    "mouse_author_residues": [
+      133,
+      316
+    ],
+    "X5S1_residues": [
+      205,
+      402
+    ]
+  }
+}

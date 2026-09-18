@@ -1,0 +1,3 @@
+stage	target	returned_count	provider_rank	evalue	bits	reported_identity	alignment_columns	query_length	target_length	significant_count	threshold	source	source_sha256
+forward	AF-A0A1W0X5S1-F1-model_v6	307	290	8.044e-07	237	0.151	211	197	423	298	0.001	analysis/foldseek/forward_afdb50/aln.csv	7c1504c00fa2cb73a39892534d7440ffe7b2337e3257f534dd886fa7837ca5a5
+reciprocal	1v0d-assembly1_A-2	74	1	3.069e-06	221	0.148	222	423	244	1	0.001	analysis/foldseek/reciprocal_pdb/aln.csv	3ecff180edf320590000fa27d5af6cbf8eeb082804e596123da925a3966cd5e3

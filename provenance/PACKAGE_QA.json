@@ -1,0 +1,58 @@
+{
+  "scope": "offline package QA; no new searches, predictions or biological-result replacement",
+  "canonical_foldseek_values": "verified from unchanged saved native rows",
+  "foldmason": "22 structures / 14 taxonomy IDs; all structure hashes match saved manifest",
+  "main_media": "four final PNGs and GIF byte-identical to current source package",
+  "figure_reproduction": [
+    {
+      "file": "FIGURE_1_WORKBENCH_DISCOVERY.png",
+      "pixels_identical": true,
+      "size": [
+        3200,
+        2000
+      ],
+      "difference_bbox": null
+    },
+    {
+      "file": "FIGURE_2_CAD_X5S1_HERO.png",
+      "pixels_identical": true,
+      "size": [
+        3200,
+        2200
+      ],
+      "difference_bbox": null
+    },
+    {
+      "file": "FIGURE_3_EXPRESSION_CONTEXT.png",
+      "pixels_identical": true,
+      "size": [
+        3200,
+        2000
+      ],
+      "difference_bbox": null
+    },
+    {
+      "file": "WORKFLOW_PROVENANCE.png",
+      "pixels_identical": true,
+      "size": [
+        2800,
+        1200
+      ],
+      "difference_bbox": null
+    }
+  ],
+  "mmseqs_offline_audit": "passed: all 75 rows and eight full-length self hits; no search executed",
+  "script_validation": "four Python files AST parsed; four R scripts parsed; figure compositions rerun with identical pixels",
+  "input_validation": "all included JSON parses; six gzip matrices fully readable; included source hashes checked",
+  "portability": "no user-machine absolute paths, loopback URLs or missing Markdown targets; manifests use documented repo-relative locations",
+  "secret_screen": "no high-specificity key/token/signature patterns found; bounded screening, not a universal guarantee",
+  "source_preservation": "read-only originals; staged metadata sanitization recorded in SOURCE_FILES.tsv",
+  "remote_status": "Repository initially created private; Jan authorized and changed it to public. Public visibility verified through the connected GitHub plugin on 18 September 2026. Committed-blob verification is recorded separately.",
+  "limitations": [
+    "This receipt records local package QA; remote committed-blob verification is an additional handoff step.",
+    "Full molecular rerender is not standalone because the archived viewer/runtime is intentionally excluded.",
+    "Raw execution locations are sanitized; original source hashes refer to unsanitized original receipts."
+  ],
+  "geo_sharing_copy": "Eight personal contact fields omitted from each of six SOFT metadata records; original retrieval hashes retained; all scientific metadata and compressed table bytes unchanged.",
+  "ncbi_sharing_copy": "Submission contact locations omitted from three Direct Submission reference fields in two XML records; all other XML content verified unchanged; original hashes retained."
+}

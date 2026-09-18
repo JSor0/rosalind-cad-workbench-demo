@@ -1,0 +1,452 @@
+{
+  "source_sha256": "4bdd61fc74fe14b22de5632354190ec413601f6d299236e72531732b9e9eea31",
+  "features": [
+    {
+      "id": "catalytic",
+      "label": "Catalytic and positioning network",
+      "color": "#d81b8c",
+      "maps": {
+        "reference.mouse": [
+          [
+            262,
+            "D262",
+            "standard",
+            97.75,
+            "D262"
+          ],
+          [
+            263,
+            "H263",
+            "standard",
+            98.44,
+            "H263"
+          ],
+          [
+            299,
+            "N299",
+            "standard",
+            98.44,
+            "N299"
+          ],
+          [
+            308,
+            "H308",
+            "standard",
+            97.38,
+            "H308"
+          ]
+        ],
+        "panel.A0A1W0X5S1": [
+          [
+            337,
+            "D337",
+            "standard",
+            60.47,
+            "D262"
+          ],
+          [
+            338,
+            "H338",
+            "standard",
+            63.22,
+            "H263"
+          ],
+          [
+            384,
+            "K384",
+            "standard",
+            59.25,
+            "N299"
+          ],
+          [
+            393,
+            "H393",
+            "standard",
+            56.72,
+            "H308"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "structural_zn",
+      "label": "Structural Zn CCHC site",
+      "color": "#b8860b",
+      "maps": {
+        "reference.mouse": [
+          [
+            229,
+            "C229",
+            "standard",
+            98.62,
+            "C229"
+          ],
+          [
+            238,
+            "C238",
+            "standard",
+            98.25,
+            "C238"
+          ],
+          [
+            242,
+            "H242",
+            "standard",
+            98.5,
+            "H242"
+          ],
+          [
+            307,
+            "C307",
+            "standard",
+            98.06,
+            "C307"
+          ]
+        ],
+        "panel.A0A1W0X5S1": [
+          [
+            296,
+            "C296",
+            "standard",
+            56.31,
+            "C229"
+          ],
+          [
+            311,
+            "C311",
+            "standard",
+            37.25,
+            "C238"
+          ],
+          [
+            316,
+            "H316",
+            "standard",
+            45.84,
+            "H242"
+          ],
+          [
+            392,
+            "C392",
+            "standard",
+            54.25,
+            "C307"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "critical",
+      "label": "Critical non-beta-alpha-alpha-Me residues",
+      "color": "#e8952a",
+      "dualColor": "#b8860b",
+      "note": "H242 is also a structural Zn ligand and therefore has dual membership.",
+      "maps": {
+        "reference.mouse": [
+          [
+            242,
+            "H242*",
+            "dual-zn",
+            98.5,
+            "H242"
+          ],
+          [
+            313,
+            "H313",
+            "standard",
+            92.31,
+            "H313"
+          ]
+        ],
+        "panel.A0A1W0X5S1": [
+          [
+            316,
+            "H316*",
+            "dual-zn",
+            45.84,
+            "H242"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "distal",
+      "label": "Distal functional DNA face",
+      "color": "#1f8aa5",
+      "maps": {
+        "reference.mouse": [
+          [
+            151,
+            "R151",
+            "standard",
+            97.69,
+            "R151"
+          ],
+          [
+            152,
+            "F152",
+            "standard",
+            97.94,
+            "F152"
+          ],
+          [
+            155,
+            "K155",
+            "standard",
+            98.62,
+            "K155"
+          ],
+          [
+            166,
+            "R166",
+            "standard",
+            97.94,
+            "R166"
+          ],
+          [
+            168,
+            "R168",
+            "standard",
+            98.44,
+            "R168"
+          ]
+        ],
+        "panel.A0A1W0X5S1": [
+          [
+            223,
+            "K223",
+            "standard",
+            71.31,
+            "R151"
+          ],
+          [
+            224,
+            "W224",
+            "standard",
+            77.56,
+            "F152"
+          ],
+          [
+            227,
+            "K227",
+            "standard",
+            76.31,
+            "K155"
+          ],
+          [
+            238,
+            "K238",
+            "standard",
+            76.5,
+            "R166"
+          ],
+          [
+            240,
+            "K240",
+            "standard",
+            83.62,
+            "R168"
+          ]
+        ]
+      }
+    }
+  ],
+  "rows": [
+    {
+      "feature": "catalytic",
+      "feature_label": "Catalytic and positioning network",
+      "mouse_label": "D262",
+      "mouse_author_residue": 262,
+      "mouse_resname": "ASP",
+      "x5s1_label": "D337",
+      "x5s1_author_residue": 337,
+      "x5s1_resname": "ASP",
+      "status": "standard",
+      "archived_target_score": 60.47,
+      "note": "Sparse saved correspondence, not a complete alignment. A missing row does not by itself establish a sequence deletion."
+    },
+    {
+      "feature": "catalytic",
+      "feature_label": "Catalytic and positioning network",
+      "mouse_label": "H263",
+      "mouse_author_residue": 263,
+      "mouse_resname": "HIS",
+      "x5s1_label": "H338",
+      "x5s1_author_residue": 338,
+      "x5s1_resname": "HIS",
+      "status": "standard",
+      "archived_target_score": 63.22,
+      "note": "Sparse saved correspondence, not a complete alignment. A missing row does not by itself establish a sequence deletion."
+    },
+    {
+      "feature": "catalytic",
+      "feature_label": "Catalytic and positioning network",
+      "mouse_label": "N299",
+      "mouse_author_residue": 299,
+      "mouse_resname": "ASN",
+      "x5s1_label": "K384",
+      "x5s1_author_residue": 384,
+      "x5s1_resname": "LYS",
+      "status": "standard",
+      "archived_target_score": 59.25,
+      "note": "Sparse saved correspondence, not a complete alignment. A missing row does not by itself establish a sequence deletion."
+    },
+    {
+      "feature": "catalytic",
+      "feature_label": "Catalytic and positioning network",
+      "mouse_label": "H308",
+      "mouse_author_residue": 308,
+      "mouse_resname": "HIS",
+      "x5s1_label": "H393",
+      "x5s1_author_residue": 393,
+      "x5s1_resname": "HIS",
+      "status": "standard",
+      "archived_target_score": 56.72,
+      "note": "Sparse saved correspondence, not a complete alignment. A missing row does not by itself establish a sequence deletion."
+    },
+    {
+      "feature": "structural_zn",
+      "feature_label": "Structural Zn CCHC site",
+      "mouse_label": "C229",
+      "mouse_author_residue": 229,
+      "mouse_resname": "CYS",
+      "x5s1_label": "C296",
+      "x5s1_author_residue": 296,
+      "x5s1_resname": "CYS",
+      "status": "standard",
+      "archived_target_score": 56.31,
+      "note": "Sparse saved correspondence, not a complete alignment. A missing row does not by itself establish a sequence deletion."
+    },
+    {
+      "feature": "structural_zn",
+      "feature_label": "Structural Zn CCHC site",
+      "mouse_label": "C238",
+      "mouse_author_residue": 238,
+      "mouse_resname": "CYS",
+      "x5s1_label": "C311",
+      "x5s1_author_residue": 311,
+      "x5s1_resname": "CYS",
+      "status": "standard",
+      "archived_target_score": 37.25,
+      "note": "Sparse saved correspondence, not a complete alignment. A missing row does not by itself establish a sequence deletion."
+    },
+    {
+      "feature": "structural_zn",
+      "feature_label": "Structural Zn CCHC site",
+      "mouse_label": "H242",
+      "mouse_author_residue": 242,
+      "mouse_resname": "HIS",
+      "x5s1_label": "H316",
+      "x5s1_author_residue": 316,
+      "x5s1_resname": "HIS",
+      "status": "standard",
+      "archived_target_score": 45.84,
+      "note": "Sparse saved correspondence, not a complete alignment. A missing row does not by itself establish a sequence deletion."
+    },
+    {
+      "feature": "structural_zn",
+      "feature_label": "Structural Zn CCHC site",
+      "mouse_label": "C307",
+      "mouse_author_residue": 307,
+      "mouse_resname": "CYS",
+      "x5s1_label": "C392",
+      "x5s1_author_residue": 392,
+      "x5s1_resname": "CYS",
+      "status": "standard",
+      "archived_target_score": 54.25,
+      "note": "Sparse saved correspondence, not a complete alignment. A missing row does not by itself establish a sequence deletion."
+    },
+    {
+      "feature": "critical",
+      "feature_label": "Critical non-beta-alpha-alpha-Me residues",
+      "mouse_label": "H242",
+      "mouse_author_residue": 242,
+      "mouse_resname": "HIS",
+      "x5s1_label": "H316*",
+      "x5s1_author_residue": 316,
+      "x5s1_resname": "HIS",
+      "status": "dual-zn",
+      "archived_target_score": 45.84,
+      "note": "Sparse saved correspondence, not a complete alignment. A missing row does not by itself establish a sequence deletion."
+    },
+    {
+      "feature": "critical",
+      "feature_label": "Critical non-beta-alpha-alpha-Me residues",
+      "mouse_label": "H313",
+      "mouse_author_residue": 313,
+      "mouse_resname": "HIS",
+      "x5s1_label": null,
+      "x5s1_author_residue": null,
+      "x5s1_resname": null,
+      "status": "not present in saved correspondence table",
+      "archived_target_score": null,
+      "note": "Sparse saved correspondence, not a complete alignment. A missing row does not by itself establish a sequence deletion."
+    },
+    {
+      "feature": "distal",
+      "feature_label": "Distal functional DNA face",
+      "mouse_label": "R151",
+      "mouse_author_residue": 151,
+      "mouse_resname": "ARG",
+      "x5s1_label": "K223",
+      "x5s1_author_residue": 223,
+      "x5s1_resname": "LYS",
+      "status": "standard",
+      "archived_target_score": 71.31,
+      "note": "Sparse saved correspondence, not a complete alignment. A missing row does not by itself establish a sequence deletion."
+    },
+    {
+      "feature": "distal",
+      "feature_label": "Distal functional DNA face",
+      "mouse_label": "F152",
+      "mouse_author_residue": 152,
+      "mouse_resname": "PHE",
+      "x5s1_label": "W224",
+      "x5s1_author_residue": 224,
+      "x5s1_resname": "TRP",
+      "status": "standard",
+      "archived_target_score": 77.56,
+      "note": "Sparse saved correspondence, not a complete alignment. A missing row does not by itself establish a sequence deletion."
+    },
+    {
+      "feature": "distal",
+      "feature_label": "Distal functional DNA face",
+      "mouse_label": "K155",
+      "mouse_author_residue": 155,
+      "mouse_resname": "LYS",
+      "x5s1_label": "K227",
+      "x5s1_author_residue": 227,
+      "x5s1_resname": "LYS",
+      "status": "standard",
+      "archived_target_score": 76.31,
+      "note": "Sparse saved correspondence, not a complete alignment. A missing row does not by itself establish a sequence deletion."
+    },
+    {
+      "feature": "distal",
+      "feature_label": "Distal functional DNA face",
+      "mouse_label": "R166",
+      "mouse_author_residue": 166,
+      "mouse_resname": "ARG",
+      "x5s1_label": "K238",
+      "x5s1_author_residue": 238,
+      "x5s1_resname": "LYS",
+      "status": "standard",
+      "archived_target_score": 76.5,
+      "note": "Sparse saved correspondence, not a complete alignment. A missing row does not by itself establish a sequence deletion."
+    },
+    {
+      "feature": "distal",
+      "feature_label": "Distal functional DNA face",
+      "mouse_label": "R168",
+      "mouse_author_residue": 168,
+      "mouse_resname": "ARG",
+      "x5s1_label": "K240",
+      "x5s1_author_residue": 240,
+      "x5s1_resname": "LYS",
+      "status": "standard",
+      "archived_target_score": 83.62,
+      "note": "Sparse saved correspondence, not a complete alignment. A missing row does not by itself establish a sequence deletion."
+    }
+  ],
+  "score_note": "Numeric fourth field retained verbatim; source reference.mouse scores must not be presented as experimental confidence."
+}

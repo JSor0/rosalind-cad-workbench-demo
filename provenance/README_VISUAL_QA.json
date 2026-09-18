@@ -1,0 +1,32 @@
+{
+  "images": [
+    {
+      "alt": "Structure-first discovery and reciprocal search",
+      "complete": true,
+      "naturalWidth": 3200,
+      "renderedWidth": 948
+    },
+    {
+      "alt": "Real fixed mouse CAD\u2013X5S1 superposition, architecture and saved residue correspondences",
+      "complete": true,
+      "naturalWidth": 3200,
+      "renderedWidth": 948
+    },
+    {
+      "alt": "Six pooled 10,000-adult libraries: descriptive expression context",
+      "complete": true,
+      "naturalWidth": 3200,
+      "renderedWidth": 948
+    }
+  ],
+  "externalRequestsBlocked": true,
+  "pageHorizontalOverflow": false,
+  "note": "Local browser approximation of GitHub Markdown; actual hosted page requires pending upload.",
+  "actual_images_opened": [
+    "README_TOP.png",
+    "README_FIGURE_2.png",
+    "README_FIGURE_3.png",
+    "README_RESULTS.png"
+  ],
+  "visual_review": "Opened local GitHub-style Markdown preview at 1280px viewport; three inline figures decoded at 948px width; main hierarchy, images and result table inspected. No changes to approved figures."
+}

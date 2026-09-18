@@ -1,0 +1,5 @@
+# Deposited expression context
+
+GEO GSE94295; six pooled 10,000-adult libraries, GSM2472501–2503 active and GSM2472504–2506 tun. Included `.gz` files are original processed Kallisto tables, not raw reads. SOFT records document cohort and preparation. Their public-sharing copies omit personal contact fields; SOURCE_MANIFEST.json retains the original retrieval hashes alongside hashes of the sanitized copies. Scientific metadata and compressed Kallisto tables are unchanged.
+
+Use [COHORT_MANIFEST.tsv](COHORT_MANIFEST.tsv), [SOURCE_MANIFEST.json](SOURCE_MANIFEST.json), [saved locus summary](bHd16413_gene_summary.tsv), [transcript rows](bHd16413_transcripts.tsv) and [validation](validation_and_provenance.json). The locus TPM sums bHd16413.1 and .2; individual protein assignment is unresolved. Means 1.387 and 10.017 TPM; ratio 7.22, descriptive only. No transferred FDR, native NGS run or new significance test. Source/reference-build distinctions are in [methods](../../docs/METHODS_AND_LIMITATIONS.md).

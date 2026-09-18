@@ -1,0 +1,2 @@
+gene_id	transcript_count	GSM2472501_tpm	GSM2472502_tpm	GSM2472503_tpm	GSM2472504_tpm	GSM2472505_tpm	GSM2472506_tpm	active_mean_tpm	active_sample_sd_tpm	tun_mean_tpm	tun_sample_sd_tpm	tun_over_active_mean_ratio	log2_ratio_with_0_1_tpm_pseudocount
+bHd16413	2	1.565613	0.997161	1.597606	7.91215	11.60757	10.53063	1.38679333333	0.337810456316	10.0167833333	1.90054230201	7.22298203529	2.7664746235

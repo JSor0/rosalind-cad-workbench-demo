@@ -1,0 +1,25 @@
+{
+  "source": "archived-external-location:cad-c3-folddisco-overlay-molstar-v2.3.2.html",
+  "source_sha256": "4bdd61fc74fe14b22de5632354190ec413601f6d299236e72531732b9e9eea31",
+  "operation": "Parse JSON data literal and base64 decode already aligned PDB bytes; no JavaScript execution, no coordinate edits, no fits, no renumbering",
+  "files": [
+    {
+      "data_key": "mouse_c3",
+      "path": "mouse_c3_experimental.pdb",
+      "bytes": 128636,
+      "sha256": "5debaa03c463e357fc520a03988e0db9e86adceb52687c62ceca0133f7471633"
+    },
+    {
+      "data_key": "panel_A0A1W0X5S1",
+      "path": "x5s1_monomer_aligned.pdb",
+      "bytes": 280341,
+      "sha256": "0ab38c3bf658a063f45a28464ba2de7604694f9026ae624ba8b0a7d77cfc49d1"
+    },
+    {
+      "data_key": "panel_A0A1W0WC24",
+      "path": "wc24_monomer_aligned.pdb",
+      "bytes": 240651,
+      "sha256": "d526bc03ac3f90fca644ae1c28763255b5a44cf23256a49d5a3b8c9c5e5080a5"
+    }
+  ]
+}

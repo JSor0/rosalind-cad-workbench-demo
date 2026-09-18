@@ -1,0 +1,50 @@
+[
+  {
+    "id": "WC24",
+    "accession": "A0A1W0WC24",
+    "ca_count": 361,
+    "current_length": 361,
+    "sequence_exact_match": true,
+    "model_ca_sequence_sha256": "49aeb2f2b1dbcbaf18eeac146efc51ca3b75b536cabfa26def4bc0719869a5c1"
+  },
+  {
+    "id": "RM91",
+    "accession": "A0A9X6RM91",
+    "ca_count": 367,
+    "current_length": 367,
+    "sequence_exact_match": true,
+    "model_ca_sequence_sha256": "e6a9065e99e14f3a57f3405cb25dc21a3e1b8b41750c52752f3976fa00d25566"
+  },
+  {
+    "id": "RN34",
+    "accession": "A0A9X6RN34",
+    "ca_count": 514,
+    "current_length": 514,
+    "sequence_exact_match": true,
+    "model_ca_sequence_sha256": "160b89afd558dcce5fec8781410394e1d3ef199cf28a19c5f79f98a111edaad0"
+  },
+  {
+    "id": "NI93",
+    "accession": "A0A9X6NI93",
+    "ca_count": 406,
+    "current_length": 406,
+    "sequence_exact_match": true,
+    "model_ca_sequence_sha256": "ec713056a1ccf45f9f0a10cf91205ed5523e5ae4c3e89d3a0d403c604caf3e6c"
+  },
+  {
+    "id": "X5S1",
+    "accession": "A0A1W0X5S1",
+    "ca_count": 423,
+    "current_length": 423,
+    "sequence_exact_match": true,
+    "model_ca_sequence_sha256": "e89aaff5a8c7d6b3c52cf75f86aeb0d0fff211a65831f8f2e536e81c1a2a14c6"
+  },
+  {
+    "id": "X6E7",
+    "accession": "A0A1W0X6E7",
+    "ca_count": 335,
+    "current_length": 335,
+    "sequence_exact_match": true,
+    "model_ca_sequence_sha256": "88b5acec09842b321e478387c4d2508059d028693adbdb9e5da4006844c4f14e"
+  }
+]

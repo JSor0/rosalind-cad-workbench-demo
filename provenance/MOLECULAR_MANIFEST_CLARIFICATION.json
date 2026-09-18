@@ -1,0 +1,12 @@
+{
+  "artifact": "assets/hero/RENDER_MANIFEST_final.json",
+  "issue": "mouse_c3.png entry selection=[204,403] inherited the inactive X5S1 targetSpan field.",
+  "actual_mouse_selection": "PDB 1V0D chain A residues 132-328, 1588 atoms",
+  "actual_target_visibility": false,
+  "inactive_targetSpan": [
+    204,
+    403
+  ],
+  "evidence": "mouse_c3.png.provenance.json: spec.mouse=true, spec.target=false; scene and source coordinates confirm mouse-only C3.",
+  "action": "Original receipts preserved unchanged. This clarification corrects interpretation of selection, not geometry. No rerender or fit required."
+}

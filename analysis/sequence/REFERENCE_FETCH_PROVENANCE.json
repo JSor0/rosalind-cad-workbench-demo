@@ -1,0 +1,61 @@
+[
+  {
+    "filename": "O76075.current.fasta",
+    "url": "https://rest.uniprot.org/uniprotkb/O76075.fasta",
+    "retrieval_utc": "2026-09-16T16:54:16.077131+00:00",
+    "status": 200,
+    "response_headers": {
+      "Vary": "accept,accept-encoding,x-uniprot-release,x-api-deployment-date, User-Agent",
+      "Cache-Control": "public, max-age=43200",
+      "x-cache": "miss cached",
+      "Content-Type": "text/plain;format=fasta",
+      "Access-Control-Allow-Credentials": "true",
+      "Access-Control-Expose-Headers": "Link, X-Total-Results, X-UniProt-Release, X-UniProt-Release-Date, X-API-Deployment-Date",
+      "X-API-Deployment-Date": "02-September-2026",
+      "strict-transport-security": "max-age=300; includeSubDomains",
+      "Date": "Wed, 16 Sep 2026 16:54:16 GMT",
+      "Access-Control-Max-Age": "1728000",
+      "X-UniProt-Release": "2026_03",
+      "Access-Control-Allow-Origin": "*",
+      "Accept-Ranges": "bytes",
+      "Connection": "close",
+      "Access-Control-Allow-Methods": "GET, PUT, POST, DELETE, PATCH, OPTIONS",
+      "Access-Control-Allow-Headers": "DNT,Keep-Alive,User-Agent,X-Requested-With,If-Modified-Since,Cache-Control,Content-Type,Range,Authorization",
+      "Content-Length": "446",
+      "X-UniProt-Release-Date": "02-September-2026"
+    },
+    "bytes": 446,
+    "sha256": "59df6563f5989390078abbbd238f949cc37eef63658d62fe239dc35982be927a",
+    "path": "archived-external-location:O76075.current.fasta",
+    "complete": true
+  },
+  {
+    "filename": "O54788.current.fasta",
+    "url": "https://rest.uniprot.org/uniprotkb/O54788.fasta",
+    "retrieval_utc": "2026-09-16T16:54:16.438966+00:00",
+    "status": 200,
+    "response_headers": {
+      "Vary": "accept,accept-encoding,x-uniprot-release,x-api-deployment-date, User-Agent",
+      "Cache-Control": "public, max-age=43200",
+      "x-cache": "miss cached",
+      "Content-Type": "text/plain;format=fasta",
+      "Access-Control-Allow-Credentials": "true",
+      "Access-Control-Expose-Headers": "Link, X-Total-Results, X-UniProt-Release, X-UniProt-Release-Date, X-API-Deployment-Date",
+      "X-API-Deployment-Date": "02-September-2026",
+      "strict-transport-security": "max-age=300; includeSubDomains",
+      "Date": "Wed, 16 Sep 2026 16:54:16 GMT",
+      "Access-Control-Max-Age": "1728000",
+      "X-UniProt-Release": "2026_03",
+      "Transfer-Encoding": "chunked",
+      "Access-Control-Allow-Origin": "*",
+      "Connection": "close",
+      "Access-Control-Allow-Methods": "GET, PUT, POST, DELETE, PATCH, OPTIONS",
+      "Access-Control-Allow-Headers": "DNT,Keep-Alive,User-Agent,X-Requested-With,If-Modified-Since,Cache-Control,Content-Type,Range,Authorization",
+      "X-UniProt-Release-Date": "02-September-2026"
+    },
+    "bytes": 453,
+    "sha256": "7f380fbef67de0c955e2e349dd75410eafa995bac5ce150e8e49ccd461975178",
+    "path": "archived-external-location:O54788.current.fasta",
+    "complete": true
+  }
+]

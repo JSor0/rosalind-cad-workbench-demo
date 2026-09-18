@@ -1,0 +1,212 @@
+alignment_column	mouse_aa	x5s1_aa	mouse_author_residue	x5s1_author_residue	class
+1	I	L	133	205	different
+2	T	K	134	206	different
+3	A	M	135	207	different
+4	E	E	136	208	identical
+5	T	S	137	209	different
+6	R	I	138	210	different
+7	E	E	139	211	identical
+8	Q	E	140	212	different
+9	D	D	141	213	identical
+10	P	R	142	214	different
+11	S	E	143	215	different
+12	W	F	144	216	different
+13	F	F	145	217	identical
+14	E	A	146	218	different
+15	G	F	147	219	different
+16	L	N	148	220	different
+17	E	S	149	221	different
+18	S	N	150	222	different
+19	R	K	151	223	different
+20	F	W	152	224	different
+21	R	T	153	225	different
+22	N	C	154	226	different
+23	K	K	155	227	identical
+24	S	S	156	228	identical
+25	G	Q	157	229	different
+26	Y	V	158	230	different
+27	L	E	159	231	different
+28	R	L	160	232	different
+29	Y	E	161	233	different
+30	S	F	162	234	different
+31	C	Q	163	235	different
+32	E	R	164	236	different
+33	S	D	165	237	different
+34	R	K	166	238	different
+35	I	L	167	239	different
+36	R	K	168	240	different
+37	G	G	169	241	identical
+38	Y	Y	170	242	identical
+39	L	G	171	243	different
+40	R	N	172	244	different
+41	E	N	173	245	different
+42	V	G	174	246	different
+43	S	R	175	247	different
+44	A	G	176	248	different
+45	Y	K	177	249	different
+46	T	M	178	250	different
+47	S	K	179	251	different
+48	M	I	180	252	different
+49	-	S		253	gap
+50	-	L		254	gap
+51	-	G		255	gap
+52	-	K		256	gap
+53	V	L	181	257	different
+54	D	N	182	258	different
+55	E	E	183	259	identical
+56	A	I	184	260	different
+57	A	Q	185	261	different
+58	Q	E	186	262	different
+59	E	K	187	263	different
+60	E	K	188	264	different
+61	Y	W	189	265	different
+62	L	N	190	266	different
+63	R	K	191	267	different
+64	V	L	192	268	different
+65	-	N		269	gap
+66	-	V		270	gap
+67	-	H		271	gap
+68	L	L	193	272	identical
+69	G	R	194	273	different
+70	S	T	195	274	different
+71	M	F	196	275	different
+72	C	-	197		gap
+73	Q	-	198		gap
+74	K	Q	199	276	different
+75	L	N	200	277	different
+76	K	R	201	278	different
+77	S	R	202	279	different
+78	V	V	203	280	identical
+79	Q	A	204	281	different
+80	Y	V	205	282	different
+81	N	N	206	283	identical
+82	G	A	207	284	different
+83	S	E	208	285	different
+84	Y	C	209	286	different
+85	F	-	210		gap
+86	D	-	211		gap
+87	R	-	212		gap
+88	G	-	213		gap
+89	A	-	214		gap
+90	E	-	215		gap
+91	A	-	216		gap
+92	S	-	217		gap
+93	S	-	218		gap
+94	R	-	219		gap
+95	L	L	220	287	identical
+96	C	V	221	288	different
+97	T	G	222	289	different
+98	P	S	223	290	different
+99	E	S	224	291	different
+100	G	G	225	292	identical
+101	W	W	226	293	identical
+102	F	I	227	294	different
+103	S	E	228	295	different
+104	C	C	229	296	identical
+105	Q	S	230	297	different
+106	G	G	231	298	identical
+107	P	R	232	299	different
+108	F	L	233	300	different
+109	-	F		301	gap
+110	-	D		302	gap
+111	-	L		303	gap
+112	-	N		304	gap
+113	-	R		305	gap
+114	-	A		306	gap
+115	D	W	234	307	different
+116	L	E	235	308	different
+117	E	K	236	309	different
+118	S	T	237	310	different
+119	C	C	238	311	identical
+120	L	E	239	312	different
+121	S	D	240	313	different
+122	K	R	241	314	different
+123	-	L		315	gap
+124	H	H	242	316	identical
+125	S	K	243	317	different
+126	I	F	244	318	different
+127	N	V	245	319	different
+128	-	T		320	gap
+129	P	L	246	321	different
+130	Y	R	247	322	different
+131	G	G	248	323	identical
+132	N	S	249	324	different
+133	R	P	250	325	different
+134	E	K	251	326	different
+135	S	A	252	327	different
+136	R	L	253	328	different
+137	I	H	254	329	different
+138	L	R	255	330	different
+139	F	A	256	331	different
+140	S	K	257	332	different
+141	T	V	258	333	different
+142	W	I	259	334	different
+143	N	E	260	335	different
+144	L	N	261	336	different
+145	D	D	262	337	identical
+146	H	H	263	338	identical
+147	I	V	264	339	different
+148	I	R	265	340	different
+149	E	G	266	341	different
+150	K	Q	267	342	different
+151	K	A	268	343	different
+152	R	L	269	344	different
+153	T	-	270		gap
+154	V	I	271	345	different
+155	V	I	272	346	different
+156	P	A	273	347	different
+157	T	A	274	348	different
+158	L	L	275	349	identical
+159	A	N	276	350	different
+160	E	I	277	351	different
+161	A	L	278	352	different
+162	I	V	279	353	different
+163	Q	G	280	354	different
+164	D	E	281	355	different
+165	-	F		356	gap
+166	-	M		357	gap
+167	G	A	282	358	different
+168	R	E	283	359	different
+169	E	E	284	360	identical
+170	V	D	285	361	different
+171	N	E	286	362	different
+172	-	D		363	gap
+173	-	K		364	gap
+174	-	M		365	gap
+175	-	D		366	gap
+176	-	E		367	gap
+177	-	L		368	gap
+178	-	A		369	gap
+179	-	L		370	gap
+180	-	E		371	gap
+181	W	I	287	372	different
+182	E	E	288	373	identical
+183	Y	A	289	374	different
+184	F	E	290	375	different
+185	Y	M	291	376	different
+186	S	E	292	377	different
+187	L	N	293	378	different
+188	L	L	294	379	identical
+189	F	F	295	380	identical
+190	T	S	296	381	different
+191	A	A	297	382	identical
+192	E	D	298	383	different
+193	N	K	299	384	different
+194	L	I	300	385	different
+195	K	R	301	386	different
+196	L	I	302	387	different
+197	V	T	303	388	different
+198	H	H	304	389	identical
+199	I	R	305	390	different
+200	A	C	306	391	different
+201	C	C	307	392	identical
+202	H	H	308	393	identical
+203	K	E	309	394	different
+204	K	T	310	395	different
+205	-	A		396	gap
+206	T	N	311	397	different
+207	T	R	312	398	different
+208	H	P	313	399	different
+209	K	D	314	400	different
+210	L	V	315	401	different
+211	E	E	316	402	identical

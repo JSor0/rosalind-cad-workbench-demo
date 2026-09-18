@@ -1,0 +1,184 @@
+{
+  "applied": true,
+  "sessionId": "47e29734-8fe0-49fc-8529-f95fd28b43bc",
+  "count": 22,
+  "items": [
+    {
+      "id": "A0A9X6NI93",
+      "label": "A0A9X6NI93",
+      "sourceId": "A0A9X6NI93",
+      "ungappedLength": 406,
+      "sequenceTruncated": false,
+      "columns": 746
+    },
+    {
+      "id": "A0A9X6RN34",
+      "label": "A0A9X6RN34",
+      "sourceId": "A0A9X6RN34",
+      "ungappedLength": 514,
+      "sequenceTruncated": false,
+      "columns": 746
+    },
+    {
+      "id": "A0A1W0X5S1",
+      "label": "A0A1W0X5S1",
+      "sourceId": "A0A1W0X5S1",
+      "ungappedLength": 423,
+      "sequenceTruncated": false,
+      "columns": 746
+    },
+    {
+      "id": "A0A1W0X6E7",
+      "label": "A0A1W0X6E7",
+      "sourceId": "A0A1W0X6E7",
+      "ungappedLength": 335,
+      "sequenceTruncated": false,
+      "columns": 746
+    },
+    {
+      "id": "A0A1S4H1T8",
+      "label": "A0A1S4H1T8",
+      "sourceId": "A0A1S4H1T8",
+      "ungappedLength": 422,
+      "sequenceTruncated": false,
+      "columns": 746
+    },
+    {
+      "id": "Q9V3H0",
+      "label": "Q9V3H0",
+      "sourceId": "Q9V3H0",
+      "ungappedLength": 450,
+      "sequenceTruncated": false,
+      "columns": 746
+    },
+    {
+      "id": "A0A1D1UN11",
+      "label": "A0A1D1UN11",
+      "sourceId": "A0A1D1UN11",
+      "ungappedLength": 198,
+      "sequenceTruncated": false,
+      "columns": 746
+    },
+    {
+      "id": "A0A1W0WC24",
+      "label": "A0A1W0WC24",
+      "sourceId": "A0A1W0WC24",
+      "ungappedLength": 361,
+      "sequenceTruncated": false,
+      "columns": 746
+    },
+    {
+      "id": "E9GG77",
+      "label": "E9GG77",
+      "sourceId": "E9GG77",
+      "ungappedLength": 331,
+      "sequenceTruncated": false,
+      "columns": 746
+    },
+    {
+      "id": "A0A8W8K8J4",
+      "label": "A0A8W8K8J4",
+      "sourceId": "A0A8W8K8J4",
+      "ungappedLength": 327,
+      "sequenceTruncated": false,
+      "columns": 746
+    },
+    {
+      "id": "R7TWY3",
+      "label": "R7TWY3",
+      "sourceId": "R7TWY3",
+      "ungappedLength": 310,
+      "sequenceTruncated": false,
+      "columns": 746
+    },
+    {
+      "id": "A0A9J7NBV2",
+      "label": "A0A9J7NBV2",
+      "sourceId": "A0A9J7NBV2",
+      "ungappedLength": 331,
+      "sequenceTruncated": false,
+      "columns": 746
+    },
+    {
+      "id": "Q9DGL7",
+      "label": "Q9DGL7",
+      "sourceId": "Q9DGL7",
+      "ungappedLength": 333,
+      "sequenceTruncated": false,
+      "columns": 746
+    },
+    {
+      "id": "O54788",
+      "label": "O54788",
+      "sourceId": "O54788",
+      "ungappedLength": 344,
+      "sequenceTruncated": false,
+      "columns": 746
+    },
+    {
+      "id": "O76075",
+      "label": "O76075",
+      "sourceId": "O76075",
+      "ungappedLength": 338,
+      "sequenceTruncated": false,
+      "columns": 746
+    },
+    {
+      "id": "B1WBL0",
+      "label": "B1WBL0",
+      "sourceId": "B1WBL0",
+      "ungappedLength": 340,
+      "sequenceTruncated": false,
+      "columns": 746
+    },
+    {
+      "id": "Q8UVS5",
+      "label": "Q8UVS5",
+      "sourceId": "Q8UVS5",
+      "ungappedLength": 333,
+      "sequenceTruncated": false,
+      "columns": 746
+    },
+    {
+      "id": "A0A1D1VEE8",
+      "label": "A0A1D1VEE8",
+      "sourceId": "A0A1D1VEE8",
+      "ungappedLength": 216,
+      "sequenceTruncated": false,
+      "columns": 746
+    },
+    {
+      "id": "A7RES0",
+      "label": "A7RES0",
+      "sourceId": "A7RES0",
+      "ungappedLength": 286,
+      "sequenceTruncated": false,
+      "columns": 746
+    },
+    {
+      "id": "A0A1D1V801",
+      "label": "A0A1D1V801",
+      "sourceId": "A0A1D1V801",
+      "ungappedLength": 176,
+      "sequenceTruncated": false,
+      "columns": 746
+    },
+    {
+      "id": "A0A1D1UJN5",
+      "label": "A0A1D1UJN5",
+      "sourceId": "A0A1D1UJN5",
+      "ungappedLength": 197,
+      "sequenceTruncated": false,
+      "columns": 746
+    },
+    {
+      "id": "A0A9X6RM91",
+      "label": "A0A9X6RM91",
+      "sourceId": "A0A9X6RM91",
+      "ungappedLength": 367,
+      "sequenceTruncated": false,
+      "columns": 746
+    }
+  ],
+  "source_note": "Viewer opened local AA file, independently verified byte-identical to returned Tamarind AA file."
+}

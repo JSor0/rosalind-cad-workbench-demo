@@ -1,0 +1,43 @@
+{
+  "operation_class": "updated-database sequence search",
+  "actual_execution": "local MMseqs2; not native plugin",
+  "started_utc": "2026-09-16T17:02:35.267801+00:00",
+  "argv": [
+    "archived-external-location:mmseqs",
+    "easy-search",
+    "analysis/sequence/panel8_archived_queries.fasta",
+    "analysis/sequence/UP000192578_plus_human_mouse.current.fasta",
+    "analysis/sequence/direct_e10.tsv",
+    "archived-external-location:direct_tmp",
+    "--format-mode",
+    "4",
+    "--alignment-mode",
+    "3",
+    "-s",
+    "7.5",
+    "-e",
+    "10",
+    "--max-seqs",
+    "1000",
+    "-v",
+    "1",
+    "--threads",
+    "4",
+    "-a",
+    "1",
+    "--format-output",
+    "query,target,evalue,bits,pident,nident,alnlen,mismatch,gapopen,qstart,qend,qlen,tstart,tend,tlen,qcov,tcov,cigar,qseq,tseq,qaln,taln,qheader,theader"
+  ],
+  "preparation_sha256": "991b5796da50dc4daa245fb6a0eb26fabee0e820addc749881f6110d212a1f14",
+  "target_count": 20834,
+  "query_count": 8,
+  "completed_utc": "2026-09-16T17:02:37.656058+00:00",
+  "elapsed_seconds": 2.387600583,
+  "returncode": 0,
+  "status": "completed",
+  "output": {
+    "path": "analysis/sequence/direct_e10.tsv",
+    "bytes": 130846,
+    "sha256": "5870b89db059f6dc18b396f576b65ce0463fc3e97f0edc60c5fc54c3550ca484"
+  }
+}

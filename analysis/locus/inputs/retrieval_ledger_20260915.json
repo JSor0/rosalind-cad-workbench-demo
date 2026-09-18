@@ -1,0 +1,79 @@
+[
+  {
+    "name": "OQV22896.1_OQV22897.1.ncbi-protein.xml",
+    "url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=protein&id=OQV22896.1%2COQV22897.1&rettype=gp&retmode=xml",
+    "utc": "2026-09-15T22:43:28.830822+00:00",
+    "operation": "public-record retrieval with Python standard-library urllib; not a successful plugin call",
+    "status": 200,
+    "resolved_url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=protein&id=OQV22896.1%2COQV22897.1&rettype=gp&retmode=xml",
+    "bytes": 16580,
+    "sha256": "95756fd8e53c1e6a30307002f35a8d9dbb37219f81f801cb93f8e6d7125b9246",
+    "saved_path": "analysis/locus/inputs/OQV22896.1_OQV22897.1.ncbi-protein.xml"
+  },
+  {
+    "name": "A0A1W0X5S1.uniprot.json",
+    "url": "https://rest.uniprot.org/uniprotkb/A0A1W0X5S1.json",
+    "utc": "2026-09-15T22:43:29.538581+00:00",
+    "operation": "public-record retrieval with Python standard-library urllib; not a successful plugin call",
+    "status": 200,
+    "resolved_url": "https://rest.uniprot.org/uniprotkb/A0A1W0X5S1.json",
+    "bytes": 4066,
+    "sha256": "ec60acef5b61257fa92d5bb1dac3b99ad6b26a4d583bbffc8d375a8c5fa2c31e",
+    "saved_path": "analysis/locus/inputs/A0A1W0X5S1.uniprot.json"
+  },
+  {
+    "name": "A0A1W0X5M8.uniprot.json",
+    "url": "https://rest.uniprot.org/uniprotkb/A0A1W0X5M8.json",
+    "utc": "2026-09-15T22:43:30.404961+00:00",
+    "operation": "public-record retrieval with Python standard-library urllib; not a successful plugin call",
+    "status": 200,
+    "resolved_url": "https://rest.uniprot.org/uniprotkb/A0A1W0X5M8.json",
+    "bytes": 4071,
+    "sha256": "8a7436a3c68119dc6a9cf8a29e52d7d26c4252eca528ad5fe6df49d48874615a",
+    "saved_path": "analysis/locus/inputs/A0A1W0X5M8.uniprot.json"
+  },
+  {
+    "name": "MTYJ01000015.1_723181-728004.ncbi-nucleotide.xml",
+    "url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=nuccore&id=MTYJ01000015.1&rettype=gbwithparts&retmode=xml&seq_start=723181&seq_stop=728004",
+    "utc": "2026-09-15T22:43:31.296987+00:00",
+    "operation": "public-record retrieval with Python standard-library urllib; not a successful plugin call",
+    "status": 200,
+    "resolved_url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=nuccore&id=MTYJ01000015.1&rettype=gbwithparts&retmode=xml&seq_start=723181&seq_stop=728004",
+    "bytes": 40020,
+    "sha256": "60046c98c6d7db81dd15383699c691c4f23c64690b0e2eaced4f6e84f07edf5f",
+    "saved_path": "analysis/locus/inputs/MTYJ01000015.1_723181-728004.ncbi-nucleotide.xml"
+  },
+  {
+    "name": "GCA_002082055.1.ncbi-assembly-search.json",
+    "url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=assembly&term=GCA_002082055.1%5BAssembly+Accession%5D&retmode=json&retmax=10",
+    "utc": "2026-09-15T22:43:31.911840+00:00",
+    "operation": "public-record retrieval with Python standard-library urllib; not a successful plugin call",
+    "status": 200,
+    "resolved_url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=assembly&term=GCA_002082055.1%5BAssembly+Accession%5D&retmode=json&retmax=10",
+    "bytes": 333,
+    "sha256": "2ac8572602bf8f52dc0445489e591486ccfa874e1ebb6550f05ac088a84e3858",
+    "saved_path": "analysis/locus/inputs/GCA_002082055.1.ncbi-assembly-search.json"
+  },
+  {
+    "name": "GCA_002082055.1.ncbi-assembly-summary.json",
+    "url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi?db=assembly&id=1063911&retmode=json",
+    "utc": "2026-09-15T22:44:46.005595+00:00",
+    "operation": "public-record retrieval with Python standard-library urllib; not a successful plugin call",
+    "status": 200,
+    "resolved_url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi?db=assembly&id=1063911&retmode=json",
+    "bytes": 3962,
+    "sha256": "8027fbf005aed80b9cb86c98ceee39b6c491520758a74a8fe1a6606eb67bfe2c",
+    "saved_path": "analysis/locus/inputs/GCA_002082055.1.ncbi-assembly-summary.json"
+  },
+  {
+    "name": "MTYJ01000015.1.ncbi-nucleotide-summary.json",
+    "url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi?db=nuccore&id=MTYJ01000015.1&retmode=json",
+    "utc": "2026-09-15T22:44:46.532846+00:00",
+    "operation": "public-record retrieval with Python standard-library urllib; not a successful plugin call",
+    "status": 200,
+    "resolved_url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi?db=nuccore&id=MTYJ01000015.1&retmode=json",
+    "bytes": 857,
+    "sha256": "d80795dd58432074a3ed8f99a68b80fc8b18dea08cd26fabe2dffb86cae99158",
+    "saved_path": "analysis/locus/inputs/MTYJ01000015.1.ncbi-nucleotide-summary.json"
+  }
+]

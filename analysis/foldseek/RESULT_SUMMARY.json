@@ -1,0 +1,122 @@
+{
+  "operation_class": "updated-database search",
+  "scientific_status": "fresh reproduction; not exact historical replay",
+  "computation_attribution": "Foldseek executed by native Tamarind Bio plugin; this script only validates/summarizes returned files.",
+  "script_sha256": "d05517f629b744c9396eff05889361581cfc5a9966c69bb92534d741030ec05a",
+  "forward": {
+    "csv": "analysis/foldseek/forward_afdb50/aln.csv",
+    "csv_sha256": "7c1504c00fa2cb73a39892534d7440ffe7b2337e3257f534dd886fa7837ca5a5",
+    "rows": 307,
+    "unique_targets": 307,
+    "query_lengths": [
+      197
+    ],
+    "count_by_evalue_threshold": {
+      "0.001": 298,
+      "1": 299,
+      "10": 307
+    },
+    "selected_hits": [
+      {
+        "provider_rank": 290,
+        "evalue_rank": 285,
+        "paired_columns": 171,
+        "identical_columns": 32,
+        "query": "input",
+        "target": "AF-A0A1W0X5S1-F1-model_v6",
+        "evalue": "8.044e-07",
+        "bits": "237",
+        "fident": "0.151",
+        "alnlen": "211",
+        "mismatch": "139",
+        "gapopen": "11",
+        "qstart": "2",
+        "qend": "185",
+        "tstart": "205",
+        "tend": "402",
+        "qlen": "197",
+        "tlen": "423",
+        "qcov": "0.934",
+        "tcov": "0.468",
+        "theader": "AF-A0A1W0X5S1-F1-model_v6 Uncharacterized protein"
+      }
+    ],
+    "foldseek_log_version": [
+      "10.941cd33"
+    ],
+    "target_database_counts": [
+      66725340
+    ],
+    "database_snapshot_date": null,
+    "database_date_status": "Not disclosed in native schema/settings/log; execution date is not snapshot date.",
+    "rank_definition": "provider_rank preserves native CSV order; evalue_rank is 1 + count of rows with strictly lower E-value (ties share rank).",
+    "warnings": [
+      "1 overflows",
+      "posix_madvise returned an error (touchMemory)"
+    ],
+    "native_command": [
+      "search tmp/queryDB provider-workdir/foldseek_dbs/afdb50 tmp/resultDB tmp/search_tmp -a -s 9.5 --max-seqs 1000 -e 10 --alignment-type 2 -c 0 "
+    ],
+    "validation": "Every native row passed alignment length, sequence-span and no-double-gap checks.",
+    "query_limit": 1000,
+    "query_limit_semantics": "maxSeqs candidate/prefilter cap; not a promise of 1000 qualifying returned rows."
+  },
+  "reciprocal": {
+    "csv": "analysis/foldseek/reciprocal_pdb/aln.csv",
+    "csv_sha256": "3ecff180edf320590000fa27d5af6cbf8eeb082804e596123da925a3966cd5e3",
+    "rows": 74,
+    "unique_targets": 74,
+    "query_lengths": [
+      423
+    ],
+    "count_by_evalue_threshold": {
+      "0.001": 1,
+      "1": 1,
+      "10": 74
+    },
+    "selected_hits": [
+      {
+        "provider_rank": 1,
+        "evalue_rank": 1,
+        "paired_columns": 172,
+        "identical_columns": 33,
+        "query": "input",
+        "target": "1v0d-assembly1_A-2",
+        "evalue": "3.069e-06",
+        "bits": "221",
+        "fident": "0.148",
+        "alnlen": "222",
+        "mismatch": "139",
+        "gapopen": "11",
+        "qstart": "205",
+        "qend": "402",
+        "tstart": "49",
+        "tend": "244",
+        "qlen": "423",
+        "tlen": "244",
+        "qcov": "0.468",
+        "tcov": "0.803",
+        "theader": "1v0d-assembly1_A-2 Crystal Structure of Caspase-activated DNase (CAD)"
+      }
+    ],
+    "foldseek_log_version": [
+      "10.941cd33"
+    ],
+    "target_database_counts": [
+      324204
+    ],
+    "database_snapshot_date": null,
+    "database_date_status": "Not disclosed in native schema/settings/log; execution date is not snapshot date.",
+    "rank_definition": "provider_rank preserves native CSV order; evalue_rank is 1 + count of rows with strictly lower E-value (ties share rank).",
+    "warnings": [
+      "1 overflows",
+      "posix_madvise returned an error (touchMemory)"
+    ],
+    "native_command": [
+      "search tmp/queryDB provider-workdir/foldseek_dbs/pdb tmp/resultDB tmp/search_tmp -a -s 9.5 --max-seqs 1000 -e 10 --alignment-type 2 -c 0 "
+    ],
+    "validation": "Every native row passed alignment length, sequence-span and no-double-gap checks.",
+    "query_limit": 1000,
+    "query_limit_semantics": "maxSeqs candidate/prefilter cap; not a promise of 1000 qualifying returned rows."
+  }
+}

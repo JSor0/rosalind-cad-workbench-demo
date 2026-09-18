@@ -1,0 +1,303 @@
+{
+  "operation_class": "public-source retrieval for processed-table reanalysis",
+  "series": "GSE94295",
+  "cohort": "three active and three tun adult pools of 10,000 individuals",
+  "retrieval_script": "scripts/fetch_geo_10k_evidence.py",
+  "script_sha256": "f7168b5b2f7d52a018e86af8bfe656d795a80a5f82234d40991a6dd1278e0f97",
+  "records": [
+    {
+      "source_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM2472501&targ=self&form=text&view=full",
+      "resolved_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM2472501&targ=self&form=text&view=full",
+      "retrieved_at_utc": "2026-09-15T22:42:28.568836+00:00",
+      "bytes": 4092,
+      "sha256": "778137d0b525b5fac10e5a79390e5da5ef98cef07d908037ded2bf25009153ba",
+      "response_headers": {
+        "Content-Type": "geo/text",
+        "Content-Length": null,
+        "Last-Modified": null,
+        "ETag": null
+      },
+      "relative_path": "analysis/expression/GSM2472501.soft.txt",
+      "role": "GEO sample metadata",
+      "sample_id": "GSM2472501",
+      "original_retrieved_bytes": 4379,
+      "original_retrieved_sha256": "b21a1afdc555715740bc4fa7bcabc62ba82585566573c970624b550263ef85a7",
+      "sharing_sanitization": {
+        "removed_field_keys": [
+          "!Sample_contact_name",
+          "!Sample_contact_department",
+          "!Sample_contact_institute",
+          "!Sample_contact_address",
+          "!Sample_contact_city",
+          "!Sample_contact_state",
+          "!Sample_contact_zip/postal_code",
+          "!Sample_contact_country"
+        ],
+        "reason": "personal contact fields omitted from public sharing copy; scientific metadata unchanged"
+      }
+    },
+    {
+      "source_url": "https://ftp.ncbi.nlm.nih.gov/geo/samples/GSM2472nnn/GSM2472501/suppl/GSM2472501_H-active_10k-1.Kallisto.txt.gz",
+      "resolved_url": "https://ftp.ncbi.nlm.nih.gov/geo/samples/GSM2472nnn/GSM2472501/suppl/GSM2472501_H-active_10k-1.Kallisto.txt.gz",
+      "retrieved_at_utc": "2026-09-15T22:42:28.784020+00:00",
+      "bytes": 292979,
+      "sha256": "f6f6a6689b31d624aeababf5abf97707d98bed9ef11e29bf493a3361077d8060",
+      "response_headers": {
+        "Content-Type": "application/x-gzip",
+        "Content-Length": "292979",
+        "Last-Modified": "Mon, 30 Jan 2017 19:32:59 GMT",
+        "ETag": null
+      },
+      "declared_supplementary_url": "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM2472nnn/GSM2472501/suppl/GSM2472501_H-active_10k-1.Kallisto.txt.gz",
+      "relative_path": "analysis/expression/GSM2472501_H-active_10k-1.Kallisto.txt.gz",
+      "role": "deposited Kallisto estimated counts and TPM",
+      "sample_id": "GSM2472501"
+    },
+    {
+      "source_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM2472502&targ=self&form=text&view=full",
+      "resolved_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM2472502&targ=self&form=text&view=full",
+      "retrieved_at_utc": "2026-09-15T22:42:28.922313+00:00",
+      "bytes": 4092,
+      "sha256": "4f68ee53eaa3eabc20d3ffe10188302b776e740a3fb273520cd94b4b5628befa",
+      "response_headers": {
+        "Content-Type": "geo/text",
+        "Content-Length": null,
+        "Last-Modified": null,
+        "ETag": null
+      },
+      "relative_path": "analysis/expression/GSM2472502.soft.txt",
+      "role": "GEO sample metadata",
+      "sample_id": "GSM2472502",
+      "original_retrieved_bytes": 4379,
+      "original_retrieved_sha256": "57abc80f86e704c35ab4fd51e36715806b05ffb6099b5d3335c402dc5694ac7b",
+      "sharing_sanitization": {
+        "removed_field_keys": [
+          "!Sample_contact_name",
+          "!Sample_contact_department",
+          "!Sample_contact_institute",
+          "!Sample_contact_address",
+          "!Sample_contact_city",
+          "!Sample_contact_state",
+          "!Sample_contact_zip/postal_code",
+          "!Sample_contact_country"
+        ],
+        "reason": "personal contact fields omitted from public sharing copy; scientific metadata unchanged"
+      }
+    },
+    {
+      "source_url": "https://ftp.ncbi.nlm.nih.gov/geo/samples/GSM2472nnn/GSM2472502/suppl/GSM2472502_H-active_10k-2.Kallisto.txt.gz",
+      "resolved_url": "https://ftp.ncbi.nlm.nih.gov/geo/samples/GSM2472nnn/GSM2472502/suppl/GSM2472502_H-active_10k-2.Kallisto.txt.gz",
+      "retrieved_at_utc": "2026-09-15T22:42:29.068082+00:00",
+      "bytes": 292608,
+      "sha256": "db141b946b53724332aa27ef08b669c8cc0f8c06da96ecbd1177e8074515afa7",
+      "response_headers": {
+        "Content-Type": "application/x-gzip",
+        "Content-Length": "292608",
+        "Last-Modified": "Mon, 30 Jan 2017 19:33:00 GMT",
+        "ETag": null
+      },
+      "declared_supplementary_url": "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM2472nnn/GSM2472502/suppl/GSM2472502_H-active_10k-2.Kallisto.txt.gz",
+      "relative_path": "analysis/expression/GSM2472502_H-active_10k-2.Kallisto.txt.gz",
+      "role": "deposited Kallisto estimated counts and TPM",
+      "sample_id": "GSM2472502"
+    },
+    {
+      "source_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM2472503&targ=self&form=text&view=full",
+      "resolved_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM2472503&targ=self&form=text&view=full",
+      "retrieved_at_utc": "2026-09-15T22:42:29.221454+00:00",
+      "bytes": 4092,
+      "sha256": "30313a3d77686f426a79e88ca946df1f92a1c0e10708c4e0f09ccc03d3dd2cc7",
+      "response_headers": {
+        "Content-Type": "geo/text",
+        "Content-Length": null,
+        "Last-Modified": null,
+        "ETag": null
+      },
+      "relative_path": "analysis/expression/GSM2472503.soft.txt",
+      "role": "GEO sample metadata",
+      "sample_id": "GSM2472503",
+      "original_retrieved_bytes": 4379,
+      "original_retrieved_sha256": "08d1e9e626ea3ee69c37ec79951fd964d8f007aabf498ca4ff8564d632eb6d5b",
+      "sharing_sanitization": {
+        "removed_field_keys": [
+          "!Sample_contact_name",
+          "!Sample_contact_department",
+          "!Sample_contact_institute",
+          "!Sample_contact_address",
+          "!Sample_contact_city",
+          "!Sample_contact_state",
+          "!Sample_contact_zip/postal_code",
+          "!Sample_contact_country"
+        ],
+        "reason": "personal contact fields omitted from public sharing copy; scientific metadata unchanged"
+      }
+    },
+    {
+      "source_url": "https://ftp.ncbi.nlm.nih.gov/geo/samples/GSM2472nnn/GSM2472503/suppl/GSM2472503_H-active_10k-3.Kallisto.txt.gz",
+      "resolved_url": "https://ftp.ncbi.nlm.nih.gov/geo/samples/GSM2472nnn/GSM2472503/suppl/GSM2472503_H-active_10k-3.Kallisto.txt.gz",
+      "retrieved_at_utc": "2026-09-15T22:42:29.355505+00:00",
+      "bytes": 288736,
+      "sha256": "60a5ab8d860b0b9b95c854c8828e6e82d449c5cf50b00cf63eda22aa51d19d5f",
+      "response_headers": {
+        "Content-Type": "application/x-gzip",
+        "Content-Length": "288736",
+        "Last-Modified": "Mon, 30 Jan 2017 19:33:00 GMT",
+        "ETag": null
+      },
+      "declared_supplementary_url": "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM2472nnn/GSM2472503/suppl/GSM2472503_H-active_10k-3.Kallisto.txt.gz",
+      "relative_path": "analysis/expression/GSM2472503_H-active_10k-3.Kallisto.txt.gz",
+      "role": "deposited Kallisto estimated counts and TPM",
+      "sample_id": "GSM2472503"
+    },
+    {
+      "source_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM2472504&targ=self&form=text&view=full",
+      "resolved_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM2472504&targ=self&form=text&view=full",
+      "retrieved_at_utc": "2026-09-15T22:42:29.510363+00:00",
+      "bytes": 4086,
+      "sha256": "3b6ca45ba47ce7b7cdea5eff392d471fbd57603748b26c4e2ab7d78dfde1f4fb",
+      "response_headers": {
+        "Content-Type": "geo/text",
+        "Content-Length": null,
+        "Last-Modified": null,
+        "ETag": null
+      },
+      "relative_path": "analysis/expression/GSM2472504.soft.txt",
+      "role": "GEO sample metadata",
+      "sample_id": "GSM2472504",
+      "original_retrieved_bytes": 4373,
+      "original_retrieved_sha256": "27e9f2b9d86640813de19198be4721938fbf99c0e378c27f0049983f3b30d3d7",
+      "sharing_sanitization": {
+        "removed_field_keys": [
+          "!Sample_contact_name",
+          "!Sample_contact_department",
+          "!Sample_contact_institute",
+          "!Sample_contact_address",
+          "!Sample_contact_city",
+          "!Sample_contact_state",
+          "!Sample_contact_zip/postal_code",
+          "!Sample_contact_country"
+        ],
+        "reason": "personal contact fields omitted from public sharing copy; scientific metadata unchanged"
+      }
+    },
+    {
+      "source_url": "https://ftp.ncbi.nlm.nih.gov/geo/samples/GSM2472nnn/GSM2472504/suppl/GSM2472504_H-tun_10k-1.Kallisto.txt.gz",
+      "resolved_url": "https://ftp.ncbi.nlm.nih.gov/geo/samples/GSM2472nnn/GSM2472504/suppl/GSM2472504_H-tun_10k-1.Kallisto.txt.gz",
+      "retrieved_at_utc": "2026-09-15T22:42:29.635302+00:00",
+      "bytes": 292542,
+      "sha256": "14d056d48bd6f8d26c7ae7a7e50a290db98b82f23faaa9c1817d78246e1f3e2e",
+      "response_headers": {
+        "Content-Type": "application/x-gzip",
+        "Content-Length": "292542",
+        "Last-Modified": "Mon, 30 Jan 2017 19:33:00 GMT",
+        "ETag": null
+      },
+      "declared_supplementary_url": "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM2472nnn/GSM2472504/suppl/GSM2472504_H-tun_10k-1.Kallisto.txt.gz",
+      "relative_path": "analysis/expression/GSM2472504_H-tun_10k-1.Kallisto.txt.gz",
+      "role": "deposited Kallisto estimated counts and TPM",
+      "sample_id": "GSM2472504"
+    },
+    {
+      "source_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM2472505&targ=self&form=text&view=full",
+      "resolved_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM2472505&targ=self&form=text&view=full",
+      "retrieved_at_utc": "2026-09-15T22:42:29.800017+00:00",
+      "bytes": 4086,
+      "sha256": "a3c8a0d3291db4af75c5e0298aceb9a188ea8689589a302eb743dd9be6bf936a",
+      "response_headers": {
+        "Content-Type": "geo/text",
+        "Content-Length": null,
+        "Last-Modified": null,
+        "ETag": null
+      },
+      "relative_path": "analysis/expression/GSM2472505.soft.txt",
+      "role": "GEO sample metadata",
+      "sample_id": "GSM2472505",
+      "original_retrieved_bytes": 4373,
+      "original_retrieved_sha256": "51f4ecf3130709b3d54747d013238ce70f70b4d45648586d7c79f39d3d5450c7",
+      "sharing_sanitization": {
+        "removed_field_keys": [
+          "!Sample_contact_name",
+          "!Sample_contact_department",
+          "!Sample_contact_institute",
+          "!Sample_contact_address",
+          "!Sample_contact_city",
+          "!Sample_contact_state",
+          "!Sample_contact_zip/postal_code",
+          "!Sample_contact_country"
+        ],
+        "reason": "personal contact fields omitted from public sharing copy; scientific metadata unchanged"
+      }
+    },
+    {
+      "source_url": "https://ftp.ncbi.nlm.nih.gov/geo/samples/GSM2472nnn/GSM2472505/suppl/GSM2472505_H-tun_10k-2.Kallisto.txt.gz",
+      "resolved_url": "https://ftp.ncbi.nlm.nih.gov/geo/samples/GSM2472nnn/GSM2472505/suppl/GSM2472505_H-tun_10k-2.Kallisto.txt.gz",
+      "retrieved_at_utc": "2026-09-15T22:42:29.938337+00:00",
+      "bytes": 293084,
+      "sha256": "3223c24663bbce714c38638bcdb84db21b88f553eeef59b1a4f8c2a771833d82",
+      "response_headers": {
+        "Content-Type": "application/x-gzip",
+        "Content-Length": "293084",
+        "Last-Modified": "Mon, 30 Jan 2017 19:33:00 GMT",
+        "ETag": null
+      },
+      "declared_supplementary_url": "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM2472nnn/GSM2472505/suppl/GSM2472505_H-tun_10k-2.Kallisto.txt.gz",
+      "relative_path": "analysis/expression/GSM2472505_H-tun_10k-2.Kallisto.txt.gz",
+      "role": "deposited Kallisto estimated counts and TPM",
+      "sample_id": "GSM2472505"
+    },
+    {
+      "source_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM2472506&targ=self&form=text&view=full",
+      "resolved_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM2472506&targ=self&form=text&view=full",
+      "retrieved_at_utc": "2026-09-15T22:42:30.101145+00:00",
+      "bytes": 4086,
+      "sha256": "1351c5b9227ecde8026ea89f0bdeb2a16dbb3cf531063bc44613e4f16b2966ae",
+      "response_headers": {
+        "Content-Type": "geo/text",
+        "Content-Length": null,
+        "Last-Modified": null,
+        "ETag": null
+      },
+      "relative_path": "analysis/expression/GSM2472506.soft.txt",
+      "role": "GEO sample metadata",
+      "sample_id": "GSM2472506",
+      "original_retrieved_bytes": 4373,
+      "original_retrieved_sha256": "04acf375f68e2275492414c14497dd5434386b360c8004af1eaee477e015c184",
+      "sharing_sanitization": {
+        "removed_field_keys": [
+          "!Sample_contact_name",
+          "!Sample_contact_department",
+          "!Sample_contact_institute",
+          "!Sample_contact_address",
+          "!Sample_contact_city",
+          "!Sample_contact_state",
+          "!Sample_contact_zip/postal_code",
+          "!Sample_contact_country"
+        ],
+        "reason": "personal contact fields omitted from public sharing copy; scientific metadata unchanged"
+      }
+    },
+    {
+      "source_url": "https://ftp.ncbi.nlm.nih.gov/geo/samples/GSM2472nnn/GSM2472506/suppl/GSM2472506_H-tun_10k-3.Kallisto.txt.gz",
+      "resolved_url": "https://ftp.ncbi.nlm.nih.gov/geo/samples/GSM2472nnn/GSM2472506/suppl/GSM2472506_H-tun_10k-3.Kallisto.txt.gz",
+      "retrieved_at_utc": "2026-09-15T22:42:30.227821+00:00",
+      "bytes": 293498,
+      "sha256": "10786faed4c81f9532af9bfe1d7c260873c0298518ea5cdf08f085afc82649c1",
+      "response_headers": {
+        "Content-Type": "application/x-gzip",
+        "Content-Length": "293498",
+        "Last-Modified": "Mon, 30 Jan 2017 19:33:00 GMT",
+        "ETag": null
+      },
+      "declared_supplementary_url": "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM2472nnn/GSM2472506/suppl/GSM2472506_H-tun_10k-3.Kallisto.txt.gz",
+      "relative_path": "analysis/expression/GSM2472506_H-tun_10k-3.Kallisto.txt.gz",
+      "role": "deposited Kallisto estimated counts and TPM",
+      "sample_id": "GSM2472506"
+    }
+  ],
+  "limitations": [
+    "Newly retrieved public source copies, not proven bit-identical to the prior analysis input snapshot.",
+    "GEO declares nHd.3.0, while the separate genomic locus audit references nHd3.1/GCA_002082055.1.",
+    "No original analyze_expression.py, raw reads, or formal differential-expression computation is recovered by this operation."
+  ],
+  "packaging_note": "For SOFT metadata, bytes/sha256 verify the sanitized packaged copy; original_retrieved_bytes/original_retrieved_sha256 retain the original public retrieval identity. Compressed Kallisto table bytes are unchanged."
+}

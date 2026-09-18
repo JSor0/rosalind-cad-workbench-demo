@@ -1,0 +1,116 @@
+{
+  "created_utc": "2026-09-17T19:21:43.723Z",
+  "route": "Local presentation: unchanged historical Mol* viewer 5.10.1, not a native Workbench export",
+  "source": {
+    "path": "archived-external-location:cad-c3-folddisco-overlay-molstar-v2.3.2.html",
+    "sha256": "4bdd61fc74fe14b22de5632354190ec413601f6d299236e72531732b9e9eea31"
+  },
+  "sourcePdb": [
+    {
+      "name": "mouse",
+      "sha256": "5debaa03c463e357fc520a03988e0db9e86adceb52687c62ceca0133f7471633"
+    },
+    {
+      "name": "X5S1",
+      "sha256": "0ab38c3bf658a063f45a28464ba2de7604694f9026ae624ba8b0a7d77cfc49d1",
+      "historicalMetadata": {
+        "id": "panel:A0A1W0X5S1",
+        "accession": "A0A1W0X5S1",
+        "shortName": "Tardigrade X5S1",
+        "species": "Hypsibius exemplaris",
+        "class": "CIDE-undetected, sequence-dark remodeled candidate",
+        "partnerStatus": "no experimentally established cognate ICAD assigned; CIDE is undetected and regulation remains unknown",
+        "group": "tardigrade",
+        "dataKey": "panel_A0A1W0X5S1",
+        "c3Span": [
+          204,
+          403
+        ],
+        "reliability": "moderate",
+        "metrics": {
+          "tmMouse": "0.72328",
+          "rmsd": "2.810",
+          "alignedLength": 172,
+          "identity": "0.151",
+          "meanPlddt": "68.98",
+          "foldseekE": "6.423E-09",
+          "foldseekQueryTM": "6.943E-01",
+          "foldseekDesign": "experimental mouse 1V0D C3 query vs one 13-model local comparison DB; exhaustive",
+          "publicFoldseekE": 8.044e-7,
+          "publicFoldseekScore": 237,
+          "publicFoldseekNote": "retained rank-truncated AFDB50 web search; E-values are not comparable to the 13-model local panel search"
+        }
+      }
+    },
+    {
+      "name": "WC24",
+      "sha256": "d526bc03ac3f90fca644ae1c28763255b5a44cf23256a49d5a3b8c9c5e5080a5",
+      "historicalMetadata": {
+        "id": "panel:A0A1W0WC24",
+        "accession": "A0A1W0WC24",
+        "shortName": "Tardigrade CAD-A candidate",
+        "species": "Hypsibius exemplaris",
+        "class": "CIDE-N+DFF40 positive control",
+        "partnerStatus": "no experimentally established cognate ICAD assigned; candidate pairing remains to be tested",
+        "group": "tardigrade",
+        "dataKey": "panel_A0A1W0WC24",
+        "c3Span": [
+          135,
+          337
+        ],
+        "reliability": "high",
+        "metrics": {
+          "tmMouse": "0.96987",
+          "rmsd": "1.020",
+          "alignedLength": 197,
+          "identity": "0.447",
+          "meanPlddt": "94.46",
+          "foldseekE": "3.642E-23",
+          "foldseekQueryTM": "9.681E-01",
+          "foldseekDesign": "experimental mouse 1V0D C3 query vs one 13-model local comparison DB; exhaustive",
+          "publicFoldseekE": 4.561e-21,
+          "publicFoldseekScore": 848,
+          "publicFoldseekNote": "retained rank-truncated AFDB50 web search; E-values are not comparable to the 13-model local panel search"
+        }
+      }
+    }
+  ],
+  "no_new_alignment_or_fit": true,
+  "coordinates_unchanged": true,
+  "all_http_blocked": true,
+  "files": [
+    {
+      "path": "archived-external-location:movie_setup.png",
+      "sha256": "e4f9c3c27634bf73dfafc6d80decbbe87ac661536b37f84a81475f077e233103",
+      "camera": {
+        "mode": "orthographic",
+        "fov": 0.7853981633974483,
+        "position": [
+          109.86071908429051,
+          58.330049131331606,
+          137.51926197143732
+        ],
+        "target": [
+          69.95210771614535,
+          43.817826815642455,
+          64.95815039299157
+        ],
+        "up": [
+          -0.08318531624148662,
+          0.9849897673139664,
+          -0.15124602952997565
+        ],
+        "radius": 45.44876033270071,
+        "radiusMax": 65.44876033270072,
+        "fog": 0,
+        "clipFar": true,
+        "minNear": 1,
+        "minFar": 0
+      },
+      "selection": [
+        204,
+        403
+      ]
+    }
+  ]
+}

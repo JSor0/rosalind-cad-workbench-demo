@@ -1,0 +1,1230 @@
+[
+  {
+    "accession": "A0A7R9IZT8",
+    "uniprot_names": [],
+    "uniprot_domain_features": [],
+    "uniprot_interpro_crossrefs": [],
+    "interpro_direct_entries": [],
+    "uniparc_crossref": {
+      "database": "UniProtKB/TrEMBL",
+      "id": "A0A7R9IZT8",
+      "versionI": 1,
+      "version": 1,
+      "active": false,
+      "created": "2021-06-02",
+      "lastUpdated": "2026-01-28",
+      "geneName": "TCMB3V08_LOCUS2734",
+      "proteinName": "(California timema) hypothetical protein",
+      "organism": {
+        "scientificName": "Timema californicum",
+        "commonName": "California timema",
+        "taxonId": 61474
+      }
+    },
+    "uniparc_sequence_features": [
+      {
+        "interproGroup": {
+          "id": "IPR015311",
+          "name": "DNA fragmentation factor 40, C-terminal"
+        },
+        "database": "Pfam",
+        "databaseId": "PF09230",
+        "locations": [
+          {
+            "start": 118,
+            "end": 216
+          },
+          {
+            "start": 237,
+            "end": 529
+          }
+        ]
+      },
+      {
+        "database": "Gene3D",
+        "databaseId": "G3DSA:3.10.20.10",
+        "locations": [
+          {
+            "start": 18,
+            "end": 112
+          }
+        ]
+      },
+      {
+        "interproGroup": {
+          "id": "IPR039729",
+          "name": "DNA fragmentation factor 40"
+        },
+        "database": "PANTHER",
+        "databaseId": "PTHR13067",
+        "locations": [
+          {
+            "start": 239,
+            "end": 530
+          }
+        ]
+      },
+      {
+        "interproGroup": {
+          "id": "IPR003508",
+          "name": "CIDE-N domain"
+        },
+        "database": "SMART",
+        "databaseId": "SM00266",
+        "locations": [
+          {
+            "start": 22,
+            "end": 94
+          }
+        ]
+      },
+      {
+        "interproGroup": {
+          "id": "IPR003508",
+          "name": "CIDE-N domain"
+        },
+        "database": "Pfam",
+        "databaseId": "PF02017",
+        "locations": [
+          {
+            "start": 22,
+            "end": 93
+          }
+        ]
+      },
+      {
+        "interproGroup": {
+          "id": "IPR044925",
+          "name": "His-Me finger superfamily"
+        },
+        "database": "SUPFAM",
+        "databaseId": "SSF54060",
+        "locations": [
+          {
+            "start": 237,
+            "end": 527
+          },
+          {
+            "start": 123,
+            "end": 216
+          }
+        ]
+      },
+      {
+        "interproGroup": {
+          "id": "IPR003508",
+          "name": "CIDE-N domain"
+        },
+        "database": "PROSITE",
+        "databaseId": "PS51135",
+        "locations": [
+          {
+            "start": 20,
+            "end": 96,
+            "alignment": "45M1D32M"
+          }
+        ]
+      },
+      {
+        "database": "SUPFAM",
+        "databaseId": "SSF54277",
+        "locations": [
+          {
+            "start": 7,
+            "end": 106
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "accession": "A9XB03",
+    "uniprot_names": [],
+    "uniprot_domain_features": [],
+    "uniprot_interpro_crossrefs": [],
+    "interpro_direct_entries": [],
+    "uniparc_crossref": {
+      "database": "UniProtKB/TrEMBL",
+      "id": "A9XB03",
+      "versionI": 1,
+      "version": 1,
+      "active": false,
+      "created": "2008-02-05",
+      "lastUpdated": "2026-01-28",
+      "geneName": "Rep4",
+      "proteinName": "Rep4 (Fragment)",
+      "organism": {
+        "scientificName": "Drosophila teissieri",
+        "commonName": "Fruit fly",
+        "taxonId": 7243
+      }
+    },
+    "uniparc_sequence_features": [
+      {
+        "interproGroup": {
+          "id": "IPR039729",
+          "name": "DNA fragmentation factor 40"
+        },
+        "database": "PANTHER",
+        "databaseId": "PTHR13067",
+        "locations": [
+          {
+            "start": 8,
+            "end": 304
+          }
+        ]
+      },
+      {
+        "interproGroup": {
+          "id": "IPR015311",
+          "name": "DNA fragmentation factor 40, C-terminal"
+        },
+        "database": "Pfam",
+        "databaseId": "PF09230",
+        "locations": [
+          {
+            "start": 37,
+            "end": 304
+          }
+        ]
+      },
+      {
+        "interproGroup": {
+          "id": "IPR044925",
+          "name": "His-Me finger superfamily"
+        },
+        "database": "SUPFAM",
+        "databaseId": "SSF54060",
+        "locations": [
+          {
+            "start": 19,
+            "end": 301
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "accession": "A0A9N9RS41",
+    "uniprot_names": [
+      "CIDE-N domain-containing protein"
+    ],
+    "uniprot_domain_features": [
+      {
+        "type": "Domain",
+        "location": {
+          "start": {
+            "value": 9,
+            "modifier": "EXACT"
+          },
+          "end": {
+            "value": 82,
+            "modifier": "EXACT"
+          }
+        },
+        "description": "CIDE-N",
+        "evidences": [
+          {
+            "evidenceCode": "ECO:0000259",
+            "source": "PROSITE",
+            "id": "PS51135"
+          }
+        ]
+      }
+    ],
+    "uniprot_interpro_crossrefs": [
+      {
+        "database": "InterPro",
+        "id": "IPR003508",
+        "properties": [
+          {
+            "key": "EntryName",
+            "value": "CIDE-N_dom"
+          }
+        ]
+      },
+      {
+        "database": "InterPro",
+        "id": "IPR039729",
+        "properties": [
+          {
+            "key": "EntryName",
+            "value": "DFF40"
+          }
+        ]
+      },
+      {
+        "database": "InterPro",
+        "id": "IPR015311",
+        "properties": [
+          {
+            "key": "EntryName",
+            "value": "DFF40_C"
+          }
+        ]
+      },
+      {
+        "database": "InterPro",
+        "id": "IPR044925",
+        "properties": [
+          {
+            "key": "EntryName",
+            "value": "His-Me_finger_sf"
+          }
+        ]
+      }
+    ],
+    "interpro_direct_entries": [
+      {
+        "accession": "IPR003508",
+        "name": "CIDE-N domain",
+        "type": "domain",
+        "locations": [
+          {
+            "accession": "a0a9n9rs41",
+            "protein_length": 396,
+            "source_database": "unreviewed",
+            "organism": "315576",
+            "in_alphafold": true,
+            "entry_protein_locations": [
+              {
+                "fragments": [
+                  {
+                    "start": 9,
+                    "end": 82,
+                    "dc-status": "CONTINUOUS"
+                  }
+                ],
+                "representative": false,
+                "model": null,
+                "score": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "accession": "IPR015311",
+        "name": "DNA fragmentation factor 40, C-terminal",
+        "type": "domain",
+        "locations": [
+          {
+            "accession": "a0a9n9rs41",
+            "protein_length": 396,
+            "source_database": "unreviewed",
+            "organism": "315576",
+            "in_alphafold": true,
+            "entry_protein_locations": [
+              {
+                "fragments": [
+                  {
+                    "start": 105,
+                    "end": 384,
+                    "dc-status": "CONTINUOUS"
+                  }
+                ],
+                "representative": false,
+                "model": null,
+                "score": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "accession": "IPR039729",
+        "name": "DNA fragmentation factor 40",
+        "type": "family",
+        "locations": [
+          {
+            "accession": "a0a9n9rs41",
+            "protein_length": 396,
+            "source_database": "unreviewed",
+            "organism": "315576",
+            "in_alphafold": true,
+            "entry_protein_locations": [
+              {
+                "fragments": [
+                  {
+                    "start": 8,
+                    "end": 390,
+                    "dc-status": "CONTINUOUS"
+                  }
+                ],
+                "representative": false,
+                "model": null,
+                "score": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "accession": "IPR044925",
+        "name": "His-Me finger superfamily",
+        "type": "homologous_superfamily",
+        "locations": [
+          {
+            "accession": "a0a9n9rs41",
+            "protein_length": 396,
+            "source_database": "unreviewed",
+            "organism": "315576",
+            "in_alphafold": true,
+            "entry_protein_locations": [
+              {
+                "fragments": [
+                  {
+                    "start": 105,
+                    "end": 389,
+                    "dc-status": "CONTINUOUS"
+                  }
+                ],
+                "representative": false,
+                "model": null,
+                "score": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "uniparc_crossref": {},
+    "uniparc_sequence_features": []
+  },
+  {
+    "accession": "A0A8D8CCD7",
+    "uniprot_names": [],
+    "uniprot_domain_features": [],
+    "uniprot_interpro_crossrefs": [],
+    "interpro_direct_entries": [],
+    "uniparc_crossref": {
+      "database": "UniProtKB/TrEMBL",
+      "id": "A0A8D8CCD7",
+      "versionI": 1,
+      "version": 1,
+      "active": false,
+      "created": "2022-01-19",
+      "lastUpdated": "2026-01-28",
+      "proteinName": "DNAation factor subunit beta",
+      "organism": {
+        "scientificName": "Culex pipiens",
+        "commonName": "House mosquito",
+        "taxonId": 7175
+      }
+    },
+    "uniparc_sequence_features": [
+      {
+        "interproGroup": {
+          "id": "IPR039729",
+          "name": "DNA fragmentation factor 40"
+        },
+        "database": "PANTHER",
+        "databaseId": "PTHR13067",
+        "locations": [
+          {
+            "start": 2,
+            "end": 335
+          }
+        ]
+      },
+      {
+        "interproGroup": {
+          "id": "IPR015311",
+          "name": "DNA fragmentation factor 40, C-terminal"
+        },
+        "database": "Pfam",
+        "databaseId": "PF09230",
+        "locations": [
+          {
+            "start": 18,
+            "end": 325
+          }
+        ]
+      },
+      {
+        "interproGroup": {
+          "id": "IPR044925",
+          "name": "His-Me finger superfamily"
+        },
+        "database": "SUPFAM",
+        "databaseId": "SSF54060",
+        "locations": [
+          {
+            "start": 2,
+            "end": 329
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "accession": "A0A8B7N461",
+    "uniprot_names": [
+      "DNAation factor subunit beta"
+    ],
+    "uniprot_domain_features": [
+      {
+        "type": "Domain",
+        "location": {
+          "start": {
+            "value": 9,
+            "modifier": "EXACT"
+          },
+          "end": {
+            "value": 83,
+            "modifier": "EXACT"
+          }
+        },
+        "description": "CIDE-N",
+        "evidences": [
+          {
+            "evidenceCode": "ECO:0000259",
+            "source": "PROSITE",
+            "id": "PS51135"
+          }
+        ]
+      }
+    ],
+    "uniprot_interpro_crossrefs": [
+      {
+        "database": "InterPro",
+        "id": "IPR003508",
+        "properties": [
+          {
+            "key": "EntryName",
+            "value": "CIDE-N_dom"
+          }
+        ]
+      },
+      {
+        "database": "InterPro",
+        "id": "IPR039729",
+        "properties": [
+          {
+            "key": "EntryName",
+            "value": "DFF40"
+          }
+        ]
+      },
+      {
+        "database": "InterPro",
+        "id": "IPR015311",
+        "properties": [
+          {
+            "key": "EntryName",
+            "value": "DFF40_C"
+          }
+        ]
+      },
+      {
+        "database": "InterPro",
+        "id": "IPR044925",
+        "properties": [
+          {
+            "key": "EntryName",
+            "value": "His-Me_finger_sf"
+          }
+        ]
+      }
+    ],
+    "interpro_direct_entries": [
+      {
+        "accession": "IPR003508",
+        "name": "CIDE-N domain",
+        "type": "domain",
+        "locations": [
+          {
+            "accession": "a0a8b7n461",
+            "protein_length": 465,
+            "source_database": "unreviewed",
+            "organism": "294128",
+            "in_alphafold": true,
+            "entry_protein_locations": [
+              {
+                "fragments": [
+                  {
+                    "start": 9,
+                    "end": 83,
+                    "dc-status": "CONTINUOUS"
+                  }
+                ],
+                "representative": false,
+                "model": null,
+                "score": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "accession": "IPR015311",
+        "name": "DNA fragmentation factor 40, C-terminal",
+        "type": "domain",
+        "locations": [
+          {
+            "accession": "a0a8b7n461",
+            "protein_length": 465,
+            "source_database": "unreviewed",
+            "organism": "294128",
+            "in_alphafold": true,
+            "entry_protein_locations": [
+              {
+                "fragments": [
+                  {
+                    "start": 128,
+                    "end": 276,
+                    "dc-status": "CONTINUOUS"
+                  }
+                ],
+                "representative": false,
+                "model": null,
+                "score": null
+              },
+              {
+                "fragments": [
+                  {
+                    "start": 439,
+                    "end": 465,
+                    "dc-status": "CONTINUOUS"
+                  }
+                ],
+                "representative": false,
+                "model": null,
+                "score": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "accession": "IPR039729",
+        "name": "DNA fragmentation factor 40",
+        "type": "family",
+        "locations": [
+          {
+            "accession": "a0a8b7n461",
+            "protein_length": 465,
+            "source_database": "unreviewed",
+            "organism": "294128",
+            "in_alphafold": true,
+            "entry_protein_locations": [
+              {
+                "fragments": [
+                  {
+                    "start": 10,
+                    "end": 276,
+                    "dc-status": "CONTINUOUS"
+                  }
+                ],
+                "representative": false,
+                "model": null,
+                "score": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "accession": "IPR044925",
+        "name": "His-Me finger superfamily",
+        "type": "homologous_superfamily",
+        "locations": [
+          {
+            "accession": "a0a8b7n461",
+            "protein_length": 465,
+            "source_database": "unreviewed",
+            "organism": "294128",
+            "in_alphafold": true,
+            "entry_protein_locations": [
+              {
+                "fragments": [
+                  {
+                    "start": 131,
+                    "end": 276,
+                    "dc-status": "CONTINUOUS"
+                  }
+                ],
+                "representative": false,
+                "model": null,
+                "score": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "uniparc_crossref": {},
+    "uniparc_sequence_features": []
+  },
+  {
+    "accession": "A0A1D1UN11",
+    "uniprot_names": [
+      "DNA fragmentation factor 40 C-terminal domain-containing protein"
+    ],
+    "uniprot_domain_features": [
+      {
+        "type": "Domain",
+        "location": {
+          "start": {
+            "value": 45,
+            "modifier": "EXACT"
+          },
+          "end": {
+            "value": 165,
+            "modifier": "EXACT"
+          }
+        },
+        "description": "DNA fragmentation factor 40 C-terminal",
+        "evidences": [
+          {
+            "evidenceCode": "ECO:0000259",
+            "source": "Pfam",
+            "id": "PF09230"
+          }
+        ]
+      }
+    ],
+    "uniprot_interpro_crossrefs": [
+      {
+        "database": "InterPro",
+        "id": "IPR039729",
+        "properties": [
+          {
+            "key": "EntryName",
+            "value": "DFF40"
+          }
+        ]
+      },
+      {
+        "database": "InterPro",
+        "id": "IPR015311",
+        "properties": [
+          {
+            "key": "EntryName",
+            "value": "DFF40_C"
+          }
+        ]
+      },
+      {
+        "database": "InterPro",
+        "id": "IPR044925",
+        "properties": [
+          {
+            "key": "EntryName",
+            "value": "His-Me_finger_sf"
+          }
+        ]
+      }
+    ],
+    "interpro_direct_entries": [
+      {
+        "accession": "IPR015311",
+        "name": "DNA fragmentation factor 40, C-terminal",
+        "type": "domain",
+        "locations": [
+          {
+            "accession": "a0a1d1un11",
+            "protein_length": 198,
+            "source_database": "unreviewed",
+            "organism": "947166",
+            "in_alphafold": true,
+            "entry_protein_locations": [
+              {
+                "fragments": [
+                  {
+                    "start": 45,
+                    "end": 165,
+                    "dc-status": "CONTINUOUS"
+                  }
+                ],
+                "representative": false,
+                "model": null,
+                "score": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "accession": "IPR039729",
+        "name": "DNA fragmentation factor 40",
+        "type": "family",
+        "locations": [
+          {
+            "accession": "a0a1d1un11",
+            "protein_length": 198,
+            "source_database": "unreviewed",
+            "organism": "947166",
+            "in_alphafold": true,
+            "entry_protein_locations": [
+              {
+                "fragments": [
+                  {
+                    "start": 46,
+                    "end": 166,
+                    "dc-status": "CONTINUOUS"
+                  }
+                ],
+                "representative": false,
+                "model": null,
+                "score": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "accession": "IPR044925",
+        "name": "His-Me finger superfamily",
+        "type": "homologous_superfamily",
+        "locations": [
+          {
+            "accession": "a0a1d1un11",
+            "protein_length": 198,
+            "source_database": "unreviewed",
+            "organism": "947166",
+            "in_alphafold": true,
+            "entry_protein_locations": [
+              {
+                "fragments": [
+                  {
+                    "start": 47,
+                    "end": 164,
+                    "dc-status": "CONTINUOUS"
+                  }
+                ],
+                "representative": false,
+                "model": null,
+                "score": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "uniparc_crossref": {},
+    "uniparc_sequence_features": []
+  },
+  {
+    "accession": "A0A1W0X5S1",
+    "uniprot_names": [
+      "Uncharacterized protein"
+    ],
+    "uniprot_domain_features": [],
+    "uniprot_interpro_crossrefs": [],
+    "interpro_direct_entries": [],
+    "uniparc_crossref": {},
+    "uniparc_sequence_features": []
+  },
+  {
+    "accession": "A0A0J7L5C9",
+    "uniprot_names": [
+      "Dnaation factor subunit beta-like protein"
+    ],
+    "uniprot_domain_features": [
+      {
+        "type": "Domain",
+        "location": {
+          "start": {
+            "value": 1,
+            "modifier": "EXACT"
+          },
+          "end": {
+            "value": 44,
+            "modifier": "EXACT"
+          }
+        },
+        "description": "CIDE-N",
+        "evidences": [
+          {
+            "evidenceCode": "ECO:0000259",
+            "source": "PROSITE",
+            "id": "PS51135"
+          }
+        ]
+      }
+    ],
+    "uniprot_interpro_crossrefs": [
+      {
+        "database": "InterPro",
+        "id": "IPR003508",
+        "properties": [
+          {
+            "key": "EntryName",
+            "value": "CIDE-N_dom"
+          }
+        ]
+      },
+      {
+        "database": "InterPro",
+        "id": "IPR039729",
+        "properties": [
+          {
+            "key": "EntryName",
+            "value": "DFF40"
+          }
+        ]
+      },
+      {
+        "database": "InterPro",
+        "id": "IPR015311",
+        "properties": [
+          {
+            "key": "EntryName",
+            "value": "DFF40_C"
+          }
+        ]
+      },
+      {
+        "database": "InterPro",
+        "id": "IPR044925",
+        "properties": [
+          {
+            "key": "EntryName",
+            "value": "His-Me_finger_sf"
+          }
+        ]
+      }
+    ],
+    "interpro_direct_entries": [
+      {
+        "accession": "IPR003508",
+        "name": "CIDE-N domain",
+        "type": "domain",
+        "locations": [
+          {
+            "accession": "a0a0j7l5c9",
+            "protein_length": 317,
+            "source_database": "unreviewed",
+            "organism": "67767",
+            "in_alphafold": true,
+            "entry_protein_locations": [
+              {
+                "fragments": [
+                  {
+                    "start": 1,
+                    "end": 44,
+                    "dc-status": "CONTINUOUS"
+                  }
+                ],
+                "representative": false,
+                "model": null,
+                "score": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "accession": "IPR015311",
+        "name": "DNA fragmentation factor 40, C-terminal",
+        "type": "domain",
+        "locations": [
+          {
+            "accession": "a0a0j7l5c9",
+            "protein_length": 317,
+            "source_database": "unreviewed",
+            "organism": "67767",
+            "in_alphafold": true,
+            "entry_protein_locations": [
+              {
+                "fragments": [
+                  {
+                    "start": 66,
+                    "end": 317,
+                    "dc-status": "CONTINUOUS"
+                  }
+                ],
+                "representative": false,
+                "model": null,
+                "score": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "accession": "IPR039729",
+        "name": "DNA fragmentation factor 40",
+        "type": "family",
+        "locations": [
+          {
+            "accession": "a0a0j7l5c9",
+            "protein_length": 317,
+            "source_database": "unreviewed",
+            "organism": "67767",
+            "in_alphafold": true,
+            "entry_protein_locations": [
+              {
+                "fragments": [
+                  {
+                    "start": 13,
+                    "end": 316,
+                    "dc-status": "CONTINUOUS"
+                  }
+                ],
+                "representative": false,
+                "model": null,
+                "score": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "accession": "IPR044925",
+        "name": "His-Me finger superfamily",
+        "type": "homologous_superfamily",
+        "locations": [
+          {
+            "accession": "a0a0j7l5c9",
+            "protein_length": 317,
+            "source_database": "unreviewed",
+            "organism": "67767",
+            "in_alphafold": true,
+            "entry_protein_locations": [
+              {
+                "fragments": [
+                  {
+                    "start": 69,
+                    "end": 207,
+                    "dc-status": "CONTINUOUS"
+                  }
+                ],
+                "representative": false,
+                "model": null,
+                "score": null
+              },
+              {
+                "fragments": [
+                  {
+                    "start": 267,
+                    "end": 317,
+                    "dc-status": "CONTINUOUS"
+                  }
+                ],
+                "representative": false,
+                "model": null,
+                "score": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "uniparc_crossref": {},
+    "uniparc_sequence_features": []
+  },
+  {
+    "accession": "A0A1D1VEE8",
+    "uniprot_names": [
+      "DNA fragmentation factor 40 C-terminal domain-containing protein"
+    ],
+    "uniprot_domain_features": [
+      {
+        "type": "Domain",
+        "location": {
+          "start": {
+            "value": 33,
+            "modifier": "EXACT"
+          },
+          "end": {
+            "value": 197,
+            "modifier": "EXACT"
+          }
+        },
+        "description": "DNA fragmentation factor 40 C-terminal",
+        "evidences": [
+          {
+            "evidenceCode": "ECO:0000259",
+            "source": "Pfam",
+            "id": "PF09230"
+          }
+        ]
+      }
+    ],
+    "uniprot_interpro_crossrefs": [
+      {
+        "database": "InterPro",
+        "id": "IPR015311",
+        "properties": [
+          {
+            "key": "EntryName",
+            "value": "DFF40_C"
+          }
+        ]
+      },
+      {
+        "database": "InterPro",
+        "id": "IPR044925",
+        "properties": [
+          {
+            "key": "EntryName",
+            "value": "His-Me_finger_sf"
+          }
+        ]
+      }
+    ],
+    "interpro_direct_entries": [
+      {
+        "accession": "IPR015311",
+        "name": "DNA fragmentation factor 40, C-terminal",
+        "type": "domain",
+        "locations": [
+          {
+            "accession": "a0a1d1vee8",
+            "protein_length": 216,
+            "source_database": "unreviewed",
+            "organism": "947166",
+            "in_alphafold": true,
+            "entry_protein_locations": [
+              {
+                "fragments": [
+                  {
+                    "start": 33,
+                    "end": 197,
+                    "dc-status": "CONTINUOUS"
+                  }
+                ],
+                "representative": false,
+                "model": null,
+                "score": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "accession": "IPR039729",
+        "name": "DNA fragmentation factor 40",
+        "type": "family",
+        "locations": [
+          {
+            "accession": "a0a1d1vee8",
+            "protein_length": 216,
+            "source_database": "unreviewed",
+            "organism": "947166",
+            "in_alphafold": true,
+            "entry_protein_locations": [
+              {
+                "fragments": [
+                  {
+                    "start": 33,
+                    "end": 198,
+                    "dc-status": "CONTINUOUS"
+                  }
+                ],
+                "representative": false,
+                "model": null,
+                "score": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "accession": "IPR044925",
+        "name": "His-Me finger superfamily",
+        "type": "homologous_superfamily",
+        "locations": [
+          {
+            "accession": "a0a1d1vee8",
+            "protein_length": 216,
+            "source_database": "unreviewed",
+            "organism": "947166",
+            "in_alphafold": true,
+            "entry_protein_locations": [
+              {
+                "fragments": [
+                  {
+                    "start": 33,
+                    "end": 197,
+                    "dc-status": "CONTINUOUS"
+                  }
+                ],
+                "representative": false,
+                "model": null,
+                "score": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "uniparc_crossref": {},
+    "uniparc_sequence_features": []
+  },
+  {
+    "accession": "A0A1D1UJN5",
+    "uniprot_names": [
+      "DNA fragmentation factor 40 C-terminal domain-containing protein"
+    ],
+    "uniprot_domain_features": [
+      {
+        "type": "Domain",
+        "location": {
+          "start": {
+            "value": 14,
+            "modifier": "EXACT"
+          },
+          "end": {
+            "value": 181,
+            "modifier": "EXACT"
+          }
+        },
+        "description": "DNA fragmentation factor 40 C-terminal",
+        "evidences": [
+          {
+            "evidenceCode": "ECO:0000259",
+            "source": "Pfam",
+            "id": "PF09230"
+          }
+        ]
+      }
+    ],
+    "uniprot_interpro_crossrefs": [
+      {
+        "database": "InterPro",
+        "id": "IPR015311",
+        "properties": [
+          {
+            "key": "EntryName",
+            "value": "DFF40_C"
+          }
+        ]
+      }
+    ],
+    "interpro_direct_entries": [
+      {
+        "accession": "IPR015311",
+        "name": "DNA fragmentation factor 40, C-terminal",
+        "type": "domain",
+        "locations": [
+          {
+            "accession": "a0a1d1ujn5",
+            "protein_length": 197,
+            "source_database": "unreviewed",
+            "organism": "947166",
+            "in_alphafold": true,
+            "entry_protein_locations": [
+              {
+                "fragments": [
+                  {
+                    "start": 14,
+                    "end": 181,
+                    "dc-status": "CONTINUOUS"
+                  }
+                ],
+                "representative": false,
+                "model": null,
+                "score": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "uniparc_crossref": {},
+    "uniparc_sequence_features": []
+  }
+]

@@ -1,0 +1,238 @@
+{
+  "schema_version": 1,
+  "created_utc": "2026-09-17T19:06:05.961243+00:00",
+  "sources": {
+    "foldmason_aa": {
+      "path": "analysis/foldmason/native/result.fasta_aa.fa",
+      "sha256": "1072c1356bb756a51383ff7ed177b06bfed4f41f25b3763b3975220bdcab13cf",
+      "bytes": 16662
+    },
+    "structure_fasta": {
+      "path": "analysis/foldmason/inputs/structure_sequences.fasta",
+      "sha256": "4218b863e8699fda33a487d4c39c77341a6a95ffae94ab249d0f271f059ea972",
+      "bytes": 7588
+    },
+    "canonical_fasta": {
+      "path": "analysis/foldmason/inputs/current_canonical_panel.fasta",
+      "sha256": "281fb13d719afed1111e26575e9f84aa597e63d7b5eef7d89656dbccae2d60fc",
+      "bytes": 10017
+    },
+    "structure_manifest": {
+      "path": "analysis/foldmason/provenance/INPUT_MANIFEST.json",
+      "sha256": "0eb09cf51dccccb6f182c7847c256534f6d3805fc24d8f1181f894f528f17f74",
+      "bytes": 23844
+    }
+  },
+  "accessions": [
+    "A7RES0",
+    "A0A8W8K8J4",
+    "R7TWY3",
+    "Q9V3H0",
+    "A0A1S4H1T8",
+    "E9GG77",
+    "A0A9J7NBV2",
+    "Q9DGL7",
+    "B1WBL0",
+    "Q8UVS5",
+    "O54788",
+    "O76075",
+    "A0A1W0WC24",
+    "A0A9X6RM91",
+    "A0A9X6RN34",
+    "A0A9X6NI93",
+    "A0A1W0X5S1",
+    "A0A1W0X6E7",
+    "A0A1D1VEE8",
+    "A0A1D1UN11",
+    "A0A1D1V801",
+    "A0A1D1UJN5"
+  ],
+  "N": 22,
+  "anchor": "O54788",
+  "anchor_interval_inclusive": [
+    132,
+    328
+  ],
+  "seed": 20260921,
+  "versions": {
+    "MAFFT": {
+      "command": [
+        "archived-external-location:mafft",
+        "--version"
+      ],
+      "version_output": "v7.525 (2024/Mar/13)",
+      "executable_sha256": "3dcd8c98fc5e33f7eafef70b149b80d7d1b2b358794302696fd434fe1036f488"
+    },
+    "IQ-TREE": {
+      "command": [
+        "archived-external-location:iqtree2",
+        "--version"
+      ],
+      "version_output": "IQ-TREE multicore version 2.4.0 for MacOS ARM 64-bit built Mar  8 2025\nDeveloped by Bui Quang Minh, Nguyen Lam Tung, Olga Chernomor, Heiko Schmidt,\nDominik Schrempf, Michael Woodhams, Ly Trong Nhan, Thomas Wong",
+      "executable_sha256": "c362421865ba7926e3026e78000c49924fad97434429dd1f332a035c683b0f0a"
+    }
+  },
+  "normalization": [
+    {
+      "raw_header": "A0A9X6NI93",
+      "accession": "A0A9X6NI93",
+      "sequence_sha256": "ec713056a1ccf45f9f0a10cf91205ed5523e5ae4c3e89d3a0d403c604caf3e6c"
+    },
+    {
+      "raw_header": "A0A9X6RN34",
+      "accession": "A0A9X6RN34",
+      "sequence_sha256": "160b89afd558dcce5fec8781410394e1d3ef199cf28a19c5f79f98a111edaad0"
+    },
+    {
+      "raw_header": "A0A1W0X5S1",
+      "accession": "A0A1W0X5S1",
+      "sequence_sha256": "e89aaff5a8c7d6b3c52cf75f86aeb0d0fff211a65831f8f2e536e81c1a2a14c6"
+    },
+    {
+      "raw_header": "A0A1W0X6E7",
+      "accession": "A0A1W0X6E7",
+      "sequence_sha256": "88b5acec09842b321e478387c4d2508059d028693adbdb9e5da4006844c4f14e"
+    },
+    {
+      "raw_header": "A0A1S4H1T8",
+      "accession": "A0A1S4H1T8",
+      "sequence_sha256": "34efd7511abe9912d29322fbfd3eef92a70c7d90b8933d935404a2bd71e7ecb0"
+    },
+    {
+      "raw_header": "Q9V3H0",
+      "accession": "Q9V3H0",
+      "sequence_sha256": "c5c193b11284584992a9a258b8276bb48f56892be135724bd8f1273bafb2e324"
+    },
+    {
+      "raw_header": "A0A1D1UN11",
+      "accession": "A0A1D1UN11",
+      "sequence_sha256": "0663aa8d5f6dabda0e04b1d96d6f68584351c0edc4eb6ef8c36927f762427c60"
+    },
+    {
+      "raw_header": "A0A1W0WC24",
+      "accession": "A0A1W0WC24",
+      "sequence_sha256": "49aeb2f2b1dbcbaf18eeac146efc51ca3b75b536cabfa26def4bc0719869a5c1"
+    },
+    {
+      "raw_header": "E9GG77",
+      "accession": "E9GG77",
+      "sequence_sha256": "91e6fcb3f21e41c071bcba935c00b23bdb9fe3da5013f3fafb4283538e711b41"
+    },
+    {
+      "raw_header": "A0A8W8K8J4",
+      "accession": "A0A8W8K8J4",
+      "sequence_sha256": "9002c0aa027a9196a9850a04a13cd1d51016a00fe2a88ab1dd8de7bd63d5f155"
+    },
+    {
+      "raw_header": "R7TWY3",
+      "accession": "R7TWY3",
+      "sequence_sha256": "de5cabdc5fc8cc5066eacf0436e6a9e6eb75409b97b2bf70aaf3da775b578533"
+    },
+    {
+      "raw_header": "A0A9J7NBV2",
+      "accession": "A0A9J7NBV2",
+      "sequence_sha256": "fc8288410f173ae02a70804451328b47c49ec6017ec01cbb700a87b503368f0a"
+    },
+    {
+      "raw_header": "Q9DGL7",
+      "accession": "Q9DGL7",
+      "sequence_sha256": "6fc88dccb57c0fc300136343b5217111cec15e00d0712491bc6baa69cf9879a7"
+    },
+    {
+      "raw_header": "O54788",
+      "accession": "O54788",
+      "sequence_sha256": "4da7bc1f8c55412463afaef8a7a68e53ceaac0bdc2bbcceeae95f92049568ad9"
+    },
+    {
+      "raw_header": "O76075",
+      "accession": "O76075",
+      "sequence_sha256": "91ec5f8b6b6f831bfef642635254475fb945c06b2a83b0658bb92c28ea64d6ce"
+    },
+    {
+      "raw_header": "B1WBL0",
+      "accession": "B1WBL0",
+      "sequence_sha256": "8140e0a8943097b2728b8a2a1085a8c93144e267cd04866061da5af450fadeab"
+    },
+    {
+      "raw_header": "Q8UVS5",
+      "accession": "Q8UVS5",
+      "sequence_sha256": "a25e7933820e706e8b77926d79768dc62215bc23135f0b74eb440d71bb9df6c3"
+    },
+    {
+      "raw_header": "A0A1D1VEE8",
+      "accession": "A0A1D1VEE8",
+      "sequence_sha256": "bf90b647768a87f5b59b1415b775fd036dc15edb13d37982cb8e13b066f7734e"
+    },
+    {
+      "raw_header": "A7RES0",
+      "accession": "A7RES0",
+      "sequence_sha256": "d572c9a562a1ff8c5e95a53f432758bb896e0cb03c62e5cb26afd47af0861b00"
+    },
+    {
+      "raw_header": "A0A1D1V801",
+      "accession": "A0A1D1V801",
+      "sequence_sha256": "fb22ea2a6b88dabf1929d77edc7c4359b193303bf63b85d07b16fb86c15a2164"
+    },
+    {
+      "raw_header": "A0A1D1UJN5",
+      "accession": "A0A1D1UJN5",
+      "sequence_sha256": "a3bb7122fe163ae82257629e1077a63196cb2cb6bc09fcdd8ef6bfec6dff6350"
+    },
+    {
+      "raw_header": "A0A9X6RM91",
+      "accession": "A0A9X6RM91",
+      "sequence_sha256": "e6a9065e99e14f3a57f3405cb25dc21a3e1b8b41750c52752f3976fa00d25566"
+    }
+  ],
+  "semantics": "Input structure sequences must equal complete current canonical sequences. C3 is an operational mouse-projected interval including intervening insertion columns; no evolutionary root inferred. FoldMason guide tree is an alignment-clustering guide, never a supported evolutionary tree.",
+  "occupancy": "Fraction of all matched-panel rows containing a residue other than gap, X or question mark. The same 50% and 90% criteria are applied independently to each method's C3 interval.",
+  "support_order": "SH-aLRT / UFBoot with NNI correction",
+  "named_groups": {
+    "Hypsibius_conventional_pair": [
+      "A0A1W0WC24",
+      "A0A9X6RM91"
+    ],
+    "Hypsibius_RN34_NI93_pair": [
+      "A0A9X6RN34",
+      "A0A9X6NI93"
+    ],
+    "Hypsibius_X5S1_X6E7_pair": [
+      "A0A1W0X5S1",
+      "A0A1W0X6E7"
+    ],
+    "Ramazzottius_VEE8_V801_pair": [
+      "A0A1D1VEE8",
+      "A0A1D1V801"
+    ],
+    "Ramazzottius_retained_compact3": [
+      "A0A1D1VEE8",
+      "A0A1D1V801",
+      "A0A1D1UN11"
+    ],
+    "Ramazzottius_all_compact4": [
+      "A0A1D1VEE8",
+      "A0A1D1V801",
+      "A0A1D1UN11",
+      "A0A1D1UJN5"
+    ],
+    "All_Hypsibius6": [
+      "A0A1W0WC24",
+      "A0A9X6RM91",
+      "A0A9X6RN34",
+      "A0A9X6NI93",
+      "A0A1W0X5S1",
+      "A0A1W0X6E7"
+    ],
+    "Mouse_human_pair": [
+      "O54788",
+      "O76075"
+    ],
+    "Vertebrates5": [
+      "O54788",
+      "O76075",
+      "Q8UVS5",
+      "Q9DGL7",
+      "B1WBL0"
+    ]
+  }
+}

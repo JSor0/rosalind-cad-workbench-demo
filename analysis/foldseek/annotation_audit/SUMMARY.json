@@ -1,0 +1,35 @@
+{
+  "created_utc": "2026-09-16T20:24:47.820406+00:00",
+  "source_sha256": "7c1504c00fa2cb73a39892534d7440ffe7b2337e3257f534dd886fa7837ca5a5",
+  "native_returned_rows": 307,
+  "significant_e_le_0_001": 298,
+  "significant_below_25_percent": 10,
+  "significant_below_20_percent": 2,
+  "below20_accessions": [
+    "A0A1W0X5S1",
+    "A0A1D1VEE8"
+  ],
+  "x5s1_only_significant_below20": false,
+  "x5s1_only_significant_below20_without_current_DFF40_label": true,
+  "below20_no_current_DFF40_label": [
+    "A0A1W0X5S1"
+  ],
+  "uniprot_release": [
+    "2026_03"
+  ],
+  "interpro_version": [
+    "110.0"
+  ],
+  "current_active_accessions": 7,
+  "current_inactive_accessions": [
+    "A0A7R9IZT8",
+    "A9XB03",
+    "A0A8D8CCD7"
+  ],
+  "all10_current_or_archive_sequences_exactly_match_native_targets": true,
+  "domain_rule": "DFF40/CAD requires IPR015311/IPR039729, PF09230/PTHR13067 or explicit DFF40/DFFB/caspase-activated nuclease name. CIDE-N requires IPR003508/PF02017/PS51135/SM00266 or explicit CIDE-N domain/name. Generic His-Me finger and DFF45 are not DFF40.",
+  "missing_current_records_are_not_neither": true,
+  "native_operation": "prior native Tamarind Foldseek; no rerun",
+  "new_operation": "local saved-table extraction + ordinary current UniProt/InterPro and UniParc metadata retrieval",
+  "interpretation_limit": "bounded returned representative list, reached1000candidateprefilter, undisclosedproviderDBsnapshot; exactaccessionabsence mayreflectclustering; annotations not functionalvalidation"
+}

@@ -1,0 +1,7 @@
+sample_id	condition	replicate	individuals	gene_id	tpm	table_url	table_sha256
+GSM2472501	active	1	10000	bHd16413	1.565613	https://ftp.ncbi.nlm.nih.gov/geo/samples/GSM2472nnn/GSM2472501/suppl/GSM2472501_H-active_10k-1.Kallisto.txt.gz	f6f6a6689b31d624aeababf5abf97707d98bed9ef11e29bf493a3361077d8060
+GSM2472502	active	2	10000	bHd16413	0.997161	https://ftp.ncbi.nlm.nih.gov/geo/samples/GSM2472nnn/GSM2472502/suppl/GSM2472502_H-active_10k-2.Kallisto.txt.gz	db141b946b53724332aa27ef08b669c8cc0f8c06da96ecbd1177e8074515afa7
+GSM2472503	active	3	10000	bHd16413	1.597606	https://ftp.ncbi.nlm.nih.gov/geo/samples/GSM2472nnn/GSM2472503/suppl/GSM2472503_H-active_10k-3.Kallisto.txt.gz	60a5ab8d860b0b9b95c854c8828e6e82d449c5cf50b00cf63eda22aa51d19d5f
+GSM2472504	tun	1	10000	bHd16413	7.91215	https://ftp.ncbi.nlm.nih.gov/geo/samples/GSM2472nnn/GSM2472504/suppl/GSM2472504_H-tun_10k-1.Kallisto.txt.gz	14d056d48bd6f8d26c7ae7a7e50a290db98b82f23faaa9c1817d78246e1f3e2e
+GSM2472505	tun	2	10000	bHd16413	11.60757	https://ftp.ncbi.nlm.nih.gov/geo/samples/GSM2472nnn/GSM2472505/suppl/GSM2472505_H-tun_10k-2.Kallisto.txt.gz	3223c24663bbce714c38638bcdb84db21b88f553eeef59b1a4f8c2a771833d82
+GSM2472506	tun	3	10000	bHd16413	10.53063	https://ftp.ncbi.nlm.nih.gov/geo/samples/GSM2472nnn/GSM2472506/suppl/GSM2472506_H-tun_10k-3.Kallisto.txt.gz	10786faed4c81f9532af9bfe1d7c260873c0298518ea5cdf08f085afc82649c1

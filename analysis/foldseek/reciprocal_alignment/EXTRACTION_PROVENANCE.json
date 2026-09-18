@@ -1,0 +1,137 @@
+{
+  "created_at_utc": "2026-09-16T16:43:54.016604+00:00",
+  "operation": "Local extraction of native fresh Foldseek alignment",
+  "parent_operation_class": "updated-database search",
+  "native_provider": "Tamarind",
+  "native_job_name": "rosalind_cad_structural_reproduction_20260916-rosalind_cad_X5S1_pdb_20260916_0ab38c3b",
+  "native_database": "pdb",
+  "native_database_snapshot": "Not established by this extraction; retain native settings and output.log.",
+  "source_csv": {
+    "data_row_1based": 1,
+    "csv_line_1based": 2,
+    "rows_in_source": 74,
+    "target_unique_in_source": true
+  },
+  "native_row_fields": {
+    "query": "input",
+    "target": "1v0d-assembly1_A-2",
+    "evalue": "3.069e-06",
+    "bits": "221",
+    "fident": "0.148",
+    "alnlen": "222",
+    "mismatch": "139",
+    "gapopen": "11",
+    "qstart": "205",
+    "qend": "402",
+    "tstart": "49",
+    "tend": "244",
+    "qlen": "423",
+    "tlen": "244",
+    "qcov": "0.468",
+    "tcov": "0.803",
+    "theader": "1v0d-assembly1_A-2 Crystal Structure of Caspase-activated DNase (CAD)"
+  },
+  "input_files": [
+    {
+      "path": "analysis/foldseek/reciprocal_pdb/aln.csv",
+      "bytes": 76524,
+      "sha256": "3ecff180edf320590000fa27d5af6cbf8eeb082804e596123da925a3966cd5e3"
+    },
+    {
+      "path": "analysis/foldseek/queries/x5s1_monomer_aligned.pdb",
+      "bytes": 280341,
+      "sha256": "0ab38c3bf658a063f45a28464ba2de7604694f9026ae624ba8b0a7d77cfc49d1"
+    },
+    {
+      "path": "archived-external-location:1V0D.pdb",
+      "bytes": 200394,
+      "sha256": "04203697d32a31b55b79bd155b729f7b282d173b5518a7c03f1e73a1461ed620"
+    },
+    {
+      "path": "analysis/foldseek/reciprocal_pdb/settings.json",
+      "bytes": 846,
+      "sha256": "c121b9114c00e85ad02b465be3abfb1ce715f25deb91560caa437b9f5dafd129"
+    },
+    {
+      "path": "analysis/foldseek/reciprocal_pdb/DOWNLOAD_PROVENANCE.json",
+      "bytes": 1549,
+      "sha256": "78099c0c17c88ccce9bec3dd3a008e8bc13c850cc01e49fb24f5810a08a6b9e7"
+    }
+  ],
+  "method": "Read deposited PDB ATOM C-alpha residue identities in file order. Require unique chain-A author residue keys and no alternate locations/multiple models. Verify complete native qseq/tseq equality to independently parsed source residue sequences. Remove existing alignment gap characters only to verify native inclusive subsequence bounds, then preserve qaln/taln unchanged. Walk each alignment column and look up its original author identity by native sequence position. No residue-number offset was assumed.",
+  "numbering_convention": {
+    "alignment_columns": "1-based",
+    "native_sequence_positions": "1-based inclusive",
+    "author_residues": "PDB author chain, residue number, insertion code; preserved through explicit lookup",
+    "gaps": "Hyphen in alignment; blank sequence/author fields in correspondence table"
+  },
+  "validation": {
+    "complete_query_sequence_exact_match": true,
+    "complete_target_sequence_exact_match": true,
+    "query_observed_residues": 423,
+    "target_observed_residues": 244,
+    "target_full_observed_author_range": [
+      85,
+      328
+    ],
+    "qaln_ungapped_matches_source_subsequence": true,
+    "taln_ungapped_matches_source_subsequence": true,
+    "query_native_range": [
+      205,
+      402
+    ],
+    "target_native_range": [
+      49,
+      244
+    ],
+    "query_author_range": [
+      205,
+      402
+    ],
+    "target_author_range": [
+      133,
+      328
+    ],
+    "alignment_columns": 222,
+    "query_ungapped_residues": 198,
+    "target_ungapped_residues": 196,
+    "paired_columns": 172,
+    "identical_pairs": 33,
+    "mismatched_pairs": 139,
+    "query_gap_columns": 24,
+    "target_gap_columns": 26,
+    "gap_runs_total": 11,
+    "double_gap_columns": 0,
+    "discrepancies": []
+  },
+  "identity_reporting": {
+    "service_fident_as_reported": "0.148",
+    "identical_pairs_divided_by_all_alignment_columns": 0.14864864864864866,
+    "identical_pairs_divided_by_paired_columns": 0.19186046511627908,
+    "note": "Preserve the service fident value verbatim. It is less precise than the direct integer-count fraction; do not substitute the paired-column denominator or the historical US-align identity."
+  },
+  "outputs": [
+    {
+      "path": "analysis/foldseek/reciprocal_alignment/X5S1_vs_1V0D_fresh_Foldseek_aligned.fasta",
+      "bytes": 705,
+      "sha256": "1d45761de8039d1411f0af1389c8a2bb33dbbe19708a7c11421837179e2c0569",
+      "record_count": 2,
+      "alignment_columns_per_record": 222
+    },
+    {
+      "path": "analysis/foldseek/reciprocal_alignment/alignment_column_author_correspondence.tsv",
+      "bytes": 9218,
+      "sha256": "13279004c9e4200ea1f47224da9d27d8cce9b30d305bbccbee63299471efe241",
+      "data_rows": 222
+    }
+  ],
+  "limitations": [
+    "This is a newly returned Foldseek alignment, not recovered historical US-align or historical Foldseek output.",
+    "No alignment, fit, coordinate transformation, geometric measurement, or structure prediction was performed during extraction.",
+    "Exact sequence identity establishes the target residue-number mapping to deposited chain A; this does not verify the target assembly operator or its coordinate orientation.",
+    "The local alignment excludes query residues outside A205-402 and mouse observed residues outside A133-328; it is not a full-length global alignment.",
+    "A 172-pair count coincides numerically with a historical US-align count but does not establish identical correspondences.",
+    "The FASTA itself has alignment-column positions; retain the correspondence TSV for original author residue numbering."
+  ],
+  "all_input_bytes_unchanged": true
+}

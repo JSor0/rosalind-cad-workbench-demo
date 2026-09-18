@@ -1,0 +1,101 @@
+{
+  "operation_class": "processed-table reanalysis",
+  "software": "Python standard library 3.9.6",
+  "analysis_script": "scripts/reanalyze_geo_10k_expression.py",
+  "analysis_script_sha256": "7a0950cbab8f4dad270b5af3e682274e258d9d93714e9aacb14cb69e510dded8",
+  "source_manifest": "analysis/expression/SOURCE_MANIFEST.json",
+  "source_manifest_sha256": "cc75e7861e0b7ed7b80c3ae08ae712b9550aa291c4086ee78744edf9b71b916a",
+  "cohort_manifest_sha256": "4094a6320ec5de7029cb64d0bcb30511862ecfd798fe3f59098cf3f24d2d6a9f",
+  "samples": [
+    {
+      "sample_id": "GSM2472501",
+      "transcript_count": 20816,
+      "sum_tpm": 999999.9015544141,
+      "sum_est_counts": 18641075.312068887,
+      "source_sha256": "f6f6a6689b31d624aeababf5abf97707d98bed9ef11e29bf493a3361077d8060",
+      "locus_sum_tpm": 999999.9015544143
+    },
+    {
+      "sample_id": "GSM2472502",
+      "transcript_count": 20816,
+      "sum_tpm": 1000000.116130237,
+      "sum_est_counts": 20119935.43767898,
+      "source_sha256": "db141b946b53724332aa27ef08b669c8cc0f8c06da96ecbd1177e8074515afa7",
+      "locus_sum_tpm": 1000000.116130238
+    },
+    {
+      "sample_id": "GSM2472503",
+      "transcript_count": 20816,
+      "sum_tpm": 999999.9193505079,
+      "sum_est_counts": 21113536.20426783,
+      "source_sha256": "60a5ab8d860b0b9b95c854c8828e6e82d449c5cf50b00cf63eda22aa51d19d5f",
+      "locus_sum_tpm": 999999.9193505074
+    },
+    {
+      "sample_id": "GSM2472504",
+      "transcript_count": 20816,
+      "sum_tpm": 999999.9611598814,
+      "sum_est_counts": 19712358.101254832,
+      "source_sha256": "14d056d48bd6f8d26c7ae7a7e50a290db98b82f23faaa9c1817d78246e1f3e2e",
+      "locus_sum_tpm": 999999.9611598828
+    },
+    {
+      "sample_id": "GSM2472505",
+      "transcript_count": 20816,
+      "sum_tpm": 999999.9207233478,
+      "sum_est_counts": 20832821.15342435,
+      "source_sha256": "3223c24663bbce714c38638bcdb84db21b88f553eeef59b1a4f8c2a771833d82",
+      "locus_sum_tpm": 999999.9207233478
+    },
+    {
+      "sample_id": "GSM2472506",
+      "transcript_count": 20816,
+      "sum_tpm": 999999.9680708691,
+      "sum_est_counts": 19677204.66560365,
+      "source_sha256": "10786faed4c81f9532af9bfe1d7c260873c0298518ea5cdf08f085afc82649c1",
+      "locus_sum_tpm": 999999.9680708688
+    }
+  ],
+  "transcript_universe": 20816,
+  "gene_universe": 19902,
+  "tun_nonzero_gene_universe": 18480,
+  "all_transcript_ids_match_bHd_numeric_suffix": true,
+  "all_six_transcript_universes_equal": true,
+  "all_transcript_lengths_equal_across_samples": true,
+  "duplicate_transcript_ids": 0,
+  "tpm_aggregation_preserves_library_totals": true,
+  "aggregation": "sum transcript TPM by validated removal of final .numeric suffix; no abundance filtering",
+  "condition_summary": "arithmetic mean; sample SD with n-1 denominator; n=3 libraries per condition",
+  "direct_ratio": "tun mean / active mean; NA if active mean is zero",
+  "descriptive_log2_ratio": "log2((tun mean + 0.1)/(active mean + 0.1))",
+  "pseudocount_tpm": 0.1,
+  "target_gene": "bHd16413",
+  "target_transcripts": [
+    "bHd16413.1",
+    "bHd16413.2"
+  ],
+  "target_gene_metrics": {
+    "active_mean_tpm": 1.3867933333333333,
+    "active_sample_sd_tpm": 0.33781045631586554,
+    "tun_mean_tpm": 10.016783333333333,
+    "tun_sample_sd_tpm": 1.9005423020110157,
+    "tun_over_active_mean_ratio": 7.222982035294852,
+    "log2_ratio_with_0_1_tpm_pseudocount": 2.7664746234975897
+  },
+  "genome_build_as_deposited": "nHd.3.0",
+  "distinct_genomic_audit_build": "nHd3.1/GCA_002082055.1",
+  "locus_crosswalk_status": "bHd16413 to BV898_03327/OQV products supplied by handoff; sequence identity not established by table identifiers or length alone.",
+  "historical_comparison_source": "ROSALIND_CAD_EVIDENCE_AUDIT.md section 6B; original reports and analyze_expression.py not used",
+  "historical_rounded_values": {
+    "active_mean_tpm": 1.387,
+    "tun_mean_tpm": 10.017,
+    "direct_ratio": 7.22,
+    "pseudocount_log2_ratio": 2.77
+  },
+  "limitations": [
+    "Newly retrieved tables, not proven identical to historical input snapshot.",
+    "No raw reads, mapping, splice-junction analysis, count model or new p-values.",
+    "Estimated counts retained as fractional values, separate from TPM.",
+    "Published single-adult FDRs and separate 30-adult cohort not recomputed."
+  ]
+}

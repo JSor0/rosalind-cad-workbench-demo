@@ -1,0 +1,197 @@
+{
+  "prepared_utc": "2026-09-16T17:01:22.366187+00:00",
+  "status": "inputs and direct-search command prepared; no search run",
+  "run_class": "fresh local reproduction implementation with current frozen database and different MMseqs build; guided non-blind",
+  "source_report": "Recovered S1 section14.6 PDFpage26",
+  "uniprot_release": "2026_03",
+  "uniprot_release_date": "02-September-2026",
+  "proteome_count": 20832,
+  "appended_reference_accessions": [
+    "O76075",
+    "O54788"
+  ],
+  "target_count": 20834,
+  "query_count": 8,
+  "target_total_residues": 8999988,
+  "metadata_total_results": 20832,
+  "queried_proteome": "UP000192578",
+  "duplicate_policy": "Preserve all distinct UniProt accessions, including identical sequences and same-locus alternative products. Repeated accession IDs or reference accession collisions abort preparation rather than silently deduplicate. Header IDs normalized to accession; original full header retained after ID; sequence bytes normalized only by FASTA line wrapping. Two reference accessions appended after verifying absence from proteome.",
+  "identical_sequence_groups_retained": 0,
+  "records_in_identical_sequence_groups": 0,
+  "nonstandard_residue_counts": {
+    "X": 298
+  },
+  "query_vs_current": [
+    {
+      "accession": "O76075",
+      "archived_length": 338,
+      "archived_sequence_sha256": "91ec5f8b6b6f831bfef642635254475fb945c06b2a83b0658bb92c28ea64d6ce",
+      "present_in_current_target": true,
+      "current_length": 338,
+      "current_sequence_sha256": "91ec5f8b6b6f831bfef642635254475fb945c06b2a83b0658bb92c28ea64d6ce",
+      "exact_sequence_match": true
+    },
+    {
+      "accession": "O54788",
+      "archived_length": 344,
+      "archived_sequence_sha256": "4da7bc1f8c55412463afaef8a7a68e53ceaac0bdc2bbcceeae95f92049568ad9",
+      "present_in_current_target": true,
+      "current_length": 344,
+      "current_sequence_sha256": "4da7bc1f8c55412463afaef8a7a68e53ceaac0bdc2bbcceeae95f92049568ad9",
+      "exact_sequence_match": true
+    },
+    {
+      "accession": "A0A1W0WC24",
+      "archived_length": 361,
+      "archived_sequence_sha256": "49aeb2f2b1dbcbaf18eeac146efc51ca3b75b536cabfa26def4bc0719869a5c1",
+      "present_in_current_target": true,
+      "current_length": 361,
+      "current_sequence_sha256": "49aeb2f2b1dbcbaf18eeac146efc51ca3b75b536cabfa26def4bc0719869a5c1",
+      "exact_sequence_match": true
+    },
+    {
+      "accession": "A0A9X6RM91",
+      "archived_length": 367,
+      "archived_sequence_sha256": "e6a9065e99e14f3a57f3405cb25dc21a3e1b8b41750c52752f3976fa00d25566",
+      "present_in_current_target": true,
+      "current_length": 367,
+      "current_sequence_sha256": "e6a9065e99e14f3a57f3405cb25dc21a3e1b8b41750c52752f3976fa00d25566",
+      "exact_sequence_match": true
+    },
+    {
+      "accession": "A0A9X6RN34",
+      "archived_length": 514,
+      "archived_sequence_sha256": "160b89afd558dcce5fec8781410394e1d3ef199cf28a19c5f79f98a111edaad0",
+      "present_in_current_target": true,
+      "current_length": 514,
+      "current_sequence_sha256": "160b89afd558dcce5fec8781410394e1d3ef199cf28a19c5f79f98a111edaad0",
+      "exact_sequence_match": true
+    },
+    {
+      "accession": "A0A9X6NI93",
+      "archived_length": 406,
+      "archived_sequence_sha256": "ec713056a1ccf45f9f0a10cf91205ed5523e5ae4c3e89d3a0d403c604caf3e6c",
+      "present_in_current_target": true,
+      "current_length": 406,
+      "current_sequence_sha256": "ec713056a1ccf45f9f0a10cf91205ed5523e5ae4c3e89d3a0d403c604caf3e6c",
+      "exact_sequence_match": true
+    },
+    {
+      "accession": "A0A1W0X5S1",
+      "archived_length": 423,
+      "archived_sequence_sha256": "e89aaff5a8c7d6b3c52cf75f86aeb0d0fff211a65831f8f2e536e81c1a2a14c6",
+      "present_in_current_target": true,
+      "current_length": 423,
+      "current_sequence_sha256": "e89aaff5a8c7d6b3c52cf75f86aeb0d0fff211a65831f8f2e536e81c1a2a14c6",
+      "exact_sequence_match": true
+    },
+    {
+      "accession": "A0A1W0X6E7",
+      "archived_length": 335,
+      "archived_sequence_sha256": "88b5acec09842b321e478387c4d2508059d028693adbdb9e5da4006844c4f14e",
+      "present_in_current_target": true,
+      "current_length": 335,
+      "current_sequence_sha256": "88b5acec09842b321e478387c4d2508059d028693adbdb9e5da4006844c4f14e",
+      "exact_sequence_match": true
+    }
+  ],
+  "all_eight_exactly_match_current": true,
+  "query_source": {
+    "path": "archived-external-location:archived_panel_full_sequences.fasta",
+    "sha256": "ea752d471237f1a06066c7173077382840113397e34ea4effa7cce8afba0ec4b",
+    "record_selection": [
+      "O76075",
+      "O54788",
+      "A0A1W0WC24",
+      "A0A9X6RM91",
+      "A0A9X6RN34",
+      "A0A9X6NI93",
+      "A0A1W0X5S1",
+      "A0A1W0X6E7"
+    ]
+  },
+  "prepared_files": {
+    "analysis/sequence/panel8_archived_queries.fasta": {
+      "sha256": "d3b4e658e80455fb00864a89fc7306961d97dfbaa90219fb717d701e3a759bd5",
+      "bytes": 4007
+    },
+    "archived-external-location:UP000192578.current.normalized.fasta": {
+      "sha256": "865d497d9e2533619c6f8c4a022699e53229fbbe57679f1d46af03396acaccd5",
+      "bytes": 12508704
+    },
+    "analysis/sequence/UP000192578_plus_human_mouse.current.fasta": {
+      "sha256": "1f833d88ec64cfdbc8680e7a05eebf1660826a0980fea4daafe080b06c32bb9e",
+      "bytes": 12509667
+    },
+    "archived-external-location:profile3_queries_NOT_RUN.fasta": {
+      "sha256": "98a325b5a66ba7d6229b9e5042193ea0e56549ead36c070abdd5d7c4306a237a",
+      "bytes": 1392
+    },
+    "analysis/sequence/QUERY_VS_CURRENT_REFERENCE.tsv": {
+      "sha256": "9075c1b5a57e7d6318af036a6dd43b9951b60ab882607327bb503b4a3f5d9fcd",
+      "bytes": 1335
+    },
+    "analysis/sequence/TARGET_DUPLICATE_SEQUENCES.tsv": {
+      "sha256": "638f4491e2ba3d5456683c1516750f649c051d6b0646daed4aea88bbf449b542",
+      "bytes": 44
+    }
+  },
+  "input_provenance_path": "analysis/sequence/FETCH_PROVENANCE.json",
+  "input_provenance_sha256": "6a5824f479efcf001f0a490c4bb231bca311d6ff22bb3d451d3401c58723f5a5",
+  "mmseqs_release": "18-8cc5c",
+  "mmseqs_reported_version": "8cc5ce367b5638c4306c2d7cfc652dd099a4643f",
+  "mmseqs_executable": "archived-external-location:mmseqs",
+  "mmseqs_executable_sha256": "837eaf6cc9be92ff320c42c4cf56ae0d75f2a53c6ff6b24a577e803e9e3951be",
+  "mmseqs_archive_sha256": "158102d4c3e3ce721424f455106fac348cd01d424ed5e66cb03eac3de5064eb6",
+  "historical_mmseqs_build": "cb12a2d75a9808ee61721029d064a7bd80af6fec",
+  "historical_target_snapshot_recovered": false,
+  "historical_complete_command_ledger_recovered": false,
+  "output_field_policy": "S1 printed field list is clipped after qle. This complete field list is newly specified and validated against installed release help; it is not claimed to be the recovered original. qseq/tseq/qaln/taln/qheader/theader are added for inspectable native sequence-viewer follow-through.",
+  "fresh_operational_choices": [
+    "--threads 4 bounds local resources; direct-search thread count was unspecified in recovered S1",
+    "-a 1 explicitly retains backtrace for CIGAR and alignment output"
+  ],
+  "command": {
+    "argv": [
+      "archived-external-location:mmseqs",
+      "easy-search",
+      "analysis/sequence/panel8_archived_queries.fasta",
+      "analysis/sequence/UP000192578_plus_human_mouse.current.fasta",
+      "analysis/sequence/direct_e10.tsv",
+      "archived-external-location:direct_tmp",
+      "--format-mode",
+      "4",
+      "--alignment-mode",
+      "3",
+      "-s",
+      "7.5",
+      "-e",
+      "10",
+      "--max-seqs",
+      "1000",
+      "-v",
+      "1",
+      "--threads",
+      "4",
+      "-a",
+      "1",
+      "--format-output",
+      "query,target,evalue,bits,pident,nident,alnlen,mismatch,gapopen,qstart,qend,qlen,tstart,tend,tlen,qcov,tcov,cigar,qseq,tseq,qaln,taln,qheader,theader"
+    ],
+    "shell": "archived-external-location:mmseqs \\\n  easy-search \\\n  analysis/sequence/panel8_archived_queries.fasta \\\n  analysis/sequence/UP000192578_plus_human_mouse.current.fasta \\\n  analysis/sequence/direct_e10.tsv \\\n  archived-external-location:direct_tmp \\\n  --format-mode \\\n  4 \\\n  --alignment-mode \\\n  3 \\\n  -s \\\n  7.5 \\\n  -e \\\n  10 \\\n  --max-seqs \\\n  1000 \\\n  -v \\\n  1 \\\n  --threads \\\n  4 \\\n  -a \\\n  1 \\\n  --format-output \\\n  query,target,evalue,bits,pident,nident,alnlen,mismatch,gapopen,qstart,qend,qlen,tstart,tend,tlen,qcov,tcov,cigar,qseq,tseq,qaln,taln,qheader,theader",
+    "executed": false
+  },
+  "iterative_profile_inputs_only": {
+    "path": "archived-external-location:profile3_queries_NOT_RUN.fasta",
+    "records": [
+      "A0A9X6NI93",
+      "A0A1W0X5S1",
+      "A0A1W0X5S1_204-403"
+    ],
+    "historical_target_was_bare_proteome": "archived-external-location:UP000192578.current.normalized.fasta",
+    "not_run": true
+  },
+  "installation_scope": "archived-external-location:mmseqs2-18-8cc5c",
+  "native_plugin_use_claimed": false,
+  "original_source_sha256": "991b5796da50dc4daa245fb6a0eb26fabee0e820addc749881f6110d212a1f14"
+}

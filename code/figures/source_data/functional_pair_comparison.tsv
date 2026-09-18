@@ -1,0 +1,15 @@
+mouse_author_chain	mouse_author_residue_number	mouse_aa	saved_feature_classes	archived_X5S1_correspondence	fresh_Foldseek_X5S1_correspondence	fresh_query_author_chain	fresh_query_author_residue_number	fresh_query_insertion_code	fresh_query_full_423_sequence_position_1based	fresh_mouse_database_sequence_position_1based	fresh_alignment_column_1based	fresh_column_class	comparison_status	note
+A	151	R	Distal functional DNA face	K223	K223	A	223		223	67	19	paired	same_saved_pair	
+A	152	F	Distal functional DNA face	W224	W224	A	224		224	68	20	paired	same_saved_pair	
+A	155	K	Distal functional DNA face	K227	K227	A	227		227	71	23	paired	same_saved_pair	
+A	166	R	Distal functional DNA face	K238	K238	A	238		238	82	34	paired	same_saved_pair	
+A	168	R	Distal functional DNA face	K240	K240	A	240		240	84	36	paired	same_saved_pair	
+A	229	C	Structural Zn CCHC site	C296	C296	A	296		296	145	104	paired	same_saved_pair	
+A	238	C	Structural Zn CCHC site	C311	C311	A	311		311	154	119	paired	same_saved_pair	
+A	242	H	Structural Zn CCHC site; Critical non-beta-alpha-alpha-Me residues	H316	H316	A	316		316	158	124	paired	same_saved_pair	Agreement with this saved archive annotation; does not resolve other method-dependent historical mappings.
+A	262	D	Catalytic and positioning network	D337	D337	A	337		337	178	145	paired	same_saved_pair	
+A	263	H	Catalytic and positioning network	H338	H338	A	338		338	179	146	paired	same_saved_pair	
+A	299	N	Catalytic and positioning network	K384	K384	A	384		384	215	193	paired	same_saved_pair	
+A	307	C	Structural Zn CCHC site	C392	C392	A	392		392	223	201	paired	same_saved_pair	
+A	308	H	Catalytic and positioning network	H393	H393	A	393		393	224	202	paired	same_saved_pair	
+A	313	H	Critical non-beta-alpha-alpha-Me residues	No correspondence saved	Query gap					229	207	query_gap	no_saved_pair_fresh_query_gap	Archive has no saved correspondence; the fresh local Foldseek alignment has a query gap. Neither establishes biological deletion.

@@ -1,0 +1,223 @@
+alignment_column_1based	query_aa	query_sequence_position_1based	query_author_chain	query_author_residue_number	query_insertion_code	target_aa	target_database_sequence_position_1based	target_author_chain	target_author_residue_number	target_insertion_code	column_class	identical_amino_acid
+1	L	205	A	205		I	49	A	133		paired	false
+2	K	206	A	206		T	50	A	134		paired	false
+3	M	207	A	207		A	51	A	135		paired	false
+4	E	208	A	208		E	52	A	136		paired	true
+5	S	209	A	209		T	53	A	137		paired	false
+6	I	210	A	210		R	54	A	138		paired	false
+7	E	211	A	211		E	55	A	139		paired	true
+8	E	212	A	212		Q	56	A	140		paired	false
+9	D	213	A	213		D	57	A	141		paired	true
+10	R	214	A	214		P	58	A	142		paired	false
+11	E	215	A	215		S	59	A	143		paired	false
+12	F	216	A	216		W	60	A	144		paired	false
+13	F	217	A	217		F	61	A	145		paired	true
+14	A	218	A	218		E	62	A	146		paired	false
+15	F	219	A	219		G	63	A	147		paired	false
+16	N	220	A	220		L	64	A	148		paired	false
+17	S	221	A	221		E	65	A	149		paired	false
+18	N	222	A	222		S	66	A	150		paired	false
+19	K	223	A	223		R	67	A	151		paired	false
+20	W	224	A	224		F	68	A	152		paired	false
+21	T	225	A	225		R	69	A	153		paired	false
+22	C	226	A	226		N	70	A	154		paired	false
+23	K	227	A	227		K	71	A	155		paired	true
+24	S	228	A	228		S	72	A	156		paired	true
+25	Q	229	A	229		G	73	A	157		paired	false
+26	V	230	A	230		Y	74	A	158		paired	false
+27	E	231	A	231		L	75	A	159		paired	false
+28	L	232	A	232		R	76	A	160		paired	false
+29	E	233	A	233		Y	77	A	161		paired	false
+30	F	234	A	234		S	78	A	162		paired	false
+31	Q	235	A	235		C	79	A	163		paired	false
+32	R	236	A	236		E	80	A	164		paired	false
+33	D	237	A	237		S	81	A	165		paired	false
+34	K	238	A	238		R	82	A	166		paired	false
+35	L	239	A	239		I	83	A	167		paired	false
+36	K	240	A	240		R	84	A	168		paired	false
+37	G	241	A	241		G	85	A	169		paired	true
+38	Y	242	A	242		Y	86	A	170		paired	true
+39	G	243	A	243		L	87	A	171		paired	false
+40	N	244	A	244		R	88	A	172		paired	false
+41	N	245	A	245		E	89	A	173		paired	false
+42	G	246	A	246		V	90	A	174		paired	false
+43	R	247	A	247		S	91	A	175		paired	false
+44	G	248	A	248		A	92	A	176		paired	false
+45	K	249	A	249		Y	93	A	177		paired	false
+46	M	250	A	250		T	94	A	178		paired	false
+47	K	251	A	251		S	95	A	179		paired	false
+48	I	252	A	252		M	96	A	180		paired	false
+49	S	253	A	253		-					target_gap	
+50	L	254	A	254		-					target_gap	
+51	G	255	A	255		-					target_gap	
+52	K	256	A	256		-					target_gap	
+53	L	257	A	257		V	97	A	181		paired	false
+54	N	258	A	258		D	98	A	182		paired	false
+55	E	259	A	259		E	99	A	183		paired	true
+56	I	260	A	260		A	100	A	184		paired	false
+57	Q	261	A	261		A	101	A	185		paired	false
+58	E	262	A	262		Q	102	A	186		paired	false
+59	K	263	A	263		E	103	A	187		paired	false
+60	K	264	A	264		E	104	A	188		paired	false
+61	W	265	A	265		Y	105	A	189		paired	false
+62	N	266	A	266		L	106	A	190		paired	false
+63	K	267	A	267		R	107	A	191		paired	false
+64	L	268	A	268		V	108	A	192		paired	false
+65	N	269	A	269		-					target_gap	
+66	V	270	A	270		-					target_gap	
+67	H	271	A	271		-					target_gap	
+68	L	272	A	272		L	109	A	193		paired	true
+69	R	273	A	273		G	110	A	194		paired	false
+70	T	274	A	274		S	111	A	195		paired	false
+71	F	275	A	275		M	112	A	196		paired	false
+72	Q	276	A	276		C	113	A	197		paired	false
+73	N	277	A	277		Q	114	A	198		paired	false
+74	R	278	A	278		K	115	A	199		paired	false
+75	R	279	A	279		L	116	A	200		paired	false
+76	V	280	A	280		K	117	A	201		paired	false
+77	A	281	A	281		S	118	A	202		paired	false
+78	V	282	A	282		V	119	A	203		paired	true
+79	-					Q	120	A	204		query_gap	
+80	-					Y	121	A	205		query_gap	
+81	N	283	A	283		N	122	A	206		paired	true
+82	A	284	A	284		G	123	A	207		paired	false
+83	E	285	A	285		S	124	A	208		paired	false
+84	C	286	A	286		Y	125	A	209		paired	false
+85	-					F	126	A	210		query_gap	
+86	-					D	127	A	211		query_gap	
+87	-					R	128	A	212		query_gap	
+88	-					G	129	A	213		query_gap	
+89	-					A	130	A	214		query_gap	
+90	-					E	131	A	215		query_gap	
+91	-					A	132	A	216		query_gap	
+92	-					S	133	A	217		query_gap	
+93	-					S	134	A	218		query_gap	
+94	-					R	135	A	219		query_gap	
+95	L	287	A	287		L	136	A	220		paired	true
+96	V	288	A	288		C	137	A	221		paired	false
+97	G	289	A	289		T	138	A	222		paired	false
+98	S	290	A	290		P	139	A	223		paired	false
+99	S	291	A	291		E	140	A	224		paired	false
+100	G	292	A	292		G	141	A	225		paired	true
+101	W	293	A	293		W	142	A	226		paired	true
+102	I	294	A	294		F	143	A	227		paired	false
+103	E	295	A	295		S	144	A	228		paired	false
+104	C	296	A	296		C	145	A	229		paired	true
+105	S	297	A	297		Q	146	A	230		paired	false
+106	G	298	A	298		G	147	A	231		paired	true
+107	R	299	A	299		P	148	A	232		paired	false
+108	L	300	A	300		F	149	A	233		paired	false
+109	F	301	A	301		-					target_gap	
+110	D	302	A	302		-					target_gap	
+111	L	303	A	303		-					target_gap	
+112	N	304	A	304		-					target_gap	
+113	R	305	A	305		-					target_gap	
+114	A	306	A	306		-					target_gap	
+115	W	307	A	307		D	150	A	234		paired	false
+116	E	308	A	308		L	151	A	235		paired	false
+117	K	309	A	309		E	152	A	236		paired	false
+118	T	310	A	310		S	153	A	237		paired	false
+119	C	311	A	311		C	154	A	238		paired	true
+120	E	312	A	312		L	155	A	239		paired	false
+121	D	313	A	313		S	156	A	240		paired	false
+122	R	314	A	314		K	157	A	241		paired	false
+123	L	315	A	315		-					target_gap	
+124	H	316	A	316		H	158	A	242		paired	true
+125	K	317	A	317		S	159	A	243		paired	false
+126	F	318	A	318		I	160	A	244		paired	false
+127	V	319	A	319		N	161	A	245		paired	false
+128	T	320	A	320		-					target_gap	
+129	L	321	A	321		P	162	A	246		paired	false
+130	R	322	A	322		Y	163	A	247		paired	false
+131	G	323	A	323		G	164	A	248		paired	true
+132	S	324	A	324		N	165	A	249		paired	false
+133	P	325	A	325		R	166	A	250		paired	false
+134	K	326	A	326		E	167	A	251		paired	false
+135	A	327	A	327		S	168	A	252		paired	false
+136	L	328	A	328		R	169	A	253		paired	false
+137	H	329	A	329		I	170	A	254		paired	false
+138	R	330	A	330		L	171	A	255		paired	false
+139	A	331	A	331		F	172	A	256		paired	false
+140	K	332	A	332		S	173	A	257		paired	false
+141	V	333	A	333		T	174	A	258		paired	false
+142	I	334	A	334		W	175	A	259		paired	false
+143	E	335	A	335		N	176	A	260		paired	false
+144	N	336	A	336		L	177	A	261		paired	false
+145	D	337	A	337		D	178	A	262		paired	true
+146	H	338	A	338		H	179	A	263		paired	true
+147	V	339	A	339		I	180	A	264		paired	false
+148	R	340	A	340		I	181	A	265		paired	false
+149	G	341	A	341		E	182	A	266		paired	false
+150	Q	342	A	342		K	183	A	267		paired	false
+151	A	343	A	343		K	184	A	268		paired	false
+152	L	344	A	344		R	185	A	269		paired	false
+153	-					T	186	A	270		query_gap	
+154	I	345	A	345		V	187	A	271		paired	false
+155	I	346	A	346		V	188	A	272		paired	false
+156	A	347	A	347		P	189	A	273		paired	false
+157	A	348	A	348		T	190	A	274		paired	false
+158	L	349	A	349		L	191	A	275		paired	true
+159	N	350	A	350		A	192	A	276		paired	false
+160	I	351	A	351		E	193	A	277		paired	false
+161	L	352	A	352		A	194	A	278		paired	false
+162	V	353	A	353		I	195	A	279		paired	false
+163	G	354	A	354		Q	196	A	280		paired	false
+164	E	355	A	355		D	197	A	281		paired	false
+165	F	356	A	356		-					target_gap	
+166	M	357	A	357		-					target_gap	
+167	A	358	A	358		G	198	A	282		paired	false
+168	E	359	A	359		R	199	A	283		paired	false
+169	E	360	A	360		E	200	A	284		paired	true
+170	D	361	A	361		V	201	A	285		paired	false
+171	E	362	A	362		N	202	A	286		paired	false
+172	D	363	A	363		-					target_gap	
+173	K	364	A	364		-					target_gap	
+174	M	365	A	365		-					target_gap	
+175	D	366	A	366		-					target_gap	
+176	E	367	A	367		-					target_gap	
+177	L	368	A	368		-					target_gap	
+178	A	369	A	369		-					target_gap	
+179	L	370	A	370		-					target_gap	
+180	E	371	A	371		-					target_gap	
+181	I	372	A	372		W	203	A	287		paired	false
+182	E	373	A	373		E	204	A	288		paired	true
+183	A	374	A	374		Y	205	A	289		paired	false
+184	E	375	A	375		F	206	A	290		paired	false
+185	M	376	A	376		Y	207	A	291		paired	false
+186	E	377	A	377		S	208	A	292		paired	false
+187	N	378	A	378		L	209	A	293		paired	false
+188	L	379	A	379		L	210	A	294		paired	true
+189	F	380	A	380		F	211	A	295		paired	true
+190	S	381	A	381		T	212	A	296		paired	false
+191	A	382	A	382		A	213	A	297		paired	true
+192	D	383	A	383		E	214	A	298		paired	false
+193	K	384	A	384		N	215	A	299		paired	false
+194	I	385	A	385		L	216	A	300		paired	false
+195	R	386	A	386		K	217	A	301		paired	false
+196	I	387	A	387		L	218	A	302		paired	false
+197	T	388	A	388		V	219	A	303		paired	false
+198	H	389	A	389		H	220	A	304		paired	true
+199	R	390	A	390		I	221	A	305		paired	false
+200	C	391	A	391		A	222	A	306		paired	false
+201	C	392	A	392		C	223	A	307		paired	true
+202	H	393	A	393		H	224	A	308		paired	true
+203	E	394	A	394		K	225	A	309		paired	false
+204	T	395	A	395		K	226	A	310		paired	false
+205	A	396	A	396		T	227	A	311		paired	false
+206	N	397	A	397		T	228	A	312		paired	false
+207	-					H	229	A	313		query_gap	
+208	-					K	230	A	314		query_gap	
+209	-					L	231	A	315		query_gap	
+210	-					E	232	A	316		query_gap	
+211	-					C	233	A	317		query_gap	
+212	-					D	234	A	318		query_gap	
+213	-					R	235	A	319		query_gap	
+214	-					S	236	A	320		query_gap	
+215	-					R	237	A	321		query_gap	
+216	-					I	238	A	322		query_gap	
+217	-					Y	239	A	323		query_gap	
+218	R	398	A	398		R	240	A	324		paired	true
+219	P	399	A	399		P	241	A	325		paired	true
+220	D	400	A	400		Q	242	A	326		paired	false
+221	V	401	A	401		T	243	A	327		paired	false
+222	E	402	A	402		G	244	A	328		paired	false

@@ -1,0 +1,34 @@
+{
+  "recorded_at": "2026-09-16T17:02:36.357Z",
+  "status": {
+    "jobs": [
+      {
+        "JobName": "rosalind_cad_structural_reproduction_20260916-rosalind_cad_C3_afdb50_20260916_5debaa03",
+        "JobStatus": "Complete",
+        "Created": "2026-09-16 16:35:45",
+        "Type": "foldseek",
+        "Started": "2026-09-16 16:36:45",
+        "Completed": "2026-09-16 16:58:49",
+        "Batch": "rosalind_cad_structural_reproduction_20260916",
+        "TamarindSchemaVersion": "1.0"
+      },
+      {
+        "JobName": "rosalind_cad_structural_reproduction_20260916-rosalind_cad_X5S1_pdb_20260916_0ab38c3b",
+        "JobStatus": "Complete",
+        "Created": "2026-09-16 16:35:45",
+        "Type": "foldseek",
+        "Started": "2026-09-16 16:36:57",
+        "Completed": "2026-09-16 16:37:12",
+        "Batch": "rosalind_cad_structural_reproduction_20260916",
+        "TamarindSchemaVersion": "1.0"
+      }
+    ],
+    "statuses": {
+      "Complete": 2,
+      "In Queue": 0,
+      "Running": 0,
+      "Stopped": 0
+    }
+  },
+  "note": "Both native Foldseek searches completed; final result tables retrieved and validated."
+}

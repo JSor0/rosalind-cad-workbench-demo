@@ -1,0 +1,26 @@
+{
+  "checks": [
+    {
+      "cloud_file": "result.fasta_aa.fa",
+      "local_file": "results_aa.fa",
+      "byte_identical": true,
+      "cloud_sha256": "1072c1356bb756a51383ff7ed177b06bfed4f41f25b3763b3975220bdcab13cf",
+      "local_sha256": "1072c1356bb756a51383ff7ed177b06bfed4f41f25b3763b3975220bdcab13cf"
+    },
+    {
+      "cloud_file": "result.fasta_3di.fa",
+      "local_file": "results_3di.fa",
+      "byte_identical": true,
+      "cloud_sha256": "941a9823635bf220a204e9919045ba82a8ab6554799b4d1d97f3aa600f88f816",
+      "local_sha256": "941a9823635bf220a204e9919045ba82a8ab6554799b4d1d97f3aa600f88f816"
+    },
+    {
+      "cloud_file": "result.fasta.nw",
+      "local_file": "results.nw",
+      "byte_identical": true,
+      "cloud_sha256": "9e2c3b40edcb130ecfaae8d0a33edffc6a4a2f9b227d109bbc14a7fba8672efb",
+      "local_sha256": "9e2c3b40edcb130ecfaae8d0a33edffc6a4a2f9b227d109bbc14a7fba8672efb"
+    }
+  ],
+  "interpretation": "Cloud and local AA/3Di alignment and guide-tree files are byte-identical. Locally initiated downstream tree analyses therefore use exactly the returned cloud alignment. No additional inference rerun is needed."
+}

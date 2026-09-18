@@ -1,0 +1,9 @@
+{
+  "native_source": "analysis/foldseek/forward_afdb50/aln.csv",
+  "native_source_sha256": "7c1504c00fa2cb73a39892534d7440ffe7b2337e3257f534dd886fa7837ca5a5",
+  "significance_definition": "E-value <= 0.001",
+  "identity_25_definition": "reported fident < 0.25",
+  "identity_20_definition": "reported fident < 0.20",
+  "scope": "complete saved307-row forward nativeTamarind table; localmining; noFoldseekrerun",
+  "annotation_route": "Current publicUniProt/InterPro metadata usingexistingcurl. Installed LifeSciencesDatabases UniProt skill read; itsrequests-basedscript hasknownmissingdependency, recordedinprioranalysis. Not claimed as new successfulnativeplugin operation."
+}

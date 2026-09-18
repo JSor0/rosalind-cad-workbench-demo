@@ -1,0 +1,213 @@
+{
+  "operation_class": "same-input recomputation from newly retrieved versioned public sequence records; not a replay of missing historical scripts",
+  "date_utc": "2026-09-15",
+  "input_record_hashes": {
+    "OQV22896.1_OQV22897.1.ncbi-protein.xml": "95756fd8e53c1e6a30307002f35a8d9dbb37219f81f801cb93f8e6d7125b9246",
+    "A0A1W0X5S1.uniprot.json": "ec60acef5b61257fa92d5bb1dac3b99ad6b26a4d583bbffc8d375a8c5fa2c31e",
+    "A0A1W0X5M8.uniprot.json": "8a7436a3c68119dc6a9cf8a29e52d7d26c4252eca528ad5fe6df49d48874615a",
+    "MTYJ01000015.1_723181-728004.ncbi-nucleotide.xml": "60046c98c6d7db81dd15383699c691c4f23c64690b0e2eaced4f6e84f07edf5f",
+    "GCA_002082055.1.ncbi-assembly-summary.json": "8027fbf005aed80b9cb86c98ceee39b6c491520758a74a8fe1a6606eb67bfe2c",
+    "MTYJ01000015.1.ncbi-nucleotide-summary.json": "d80795dd58432074a3ed8f99a68b80fc8b18dea08cd26fabe2dffb86cae99158"
+  },
+  "script_sha256": "c6fb8ae0fab7913df075829a7354b9939c6ec42244a088012b437c720d596610",
+  "source_links": {
+    "X5S1": "https://www.ncbi.nlm.nih.gov/protein/OQV22896.1",
+    "X5M8": "https://www.ncbi.nlm.nih.gov/protein/OQV22897.1",
+    "scaffold": "https://www.ncbi.nlm.nih.gov/nuccore/MTYJ01000015.1",
+    "assembly": "https://www.ncbi.nlm.nih.gov/datasets/genome/GCA_002082055.1/",
+    "uniprot_X5S1": "https://www.uniprot.org/uniprotkb/A0A1W0X5S1/entry",
+    "uniprot_X5M8": "https://www.uniprot.org/uniprotkb/A0A1W0X5M8/entry"
+  },
+  "organism": "Hypsibius exemplaris",
+  "strain": "Z151",
+  "taxon": "taxon:2072580",
+  "source_record_comment": "~Annotation was updated on the contigs in June 2017~The organism was updated from Hypsibius dujardini strain Z151 to Hypsibius exemplaris strain Z151 in March 2022 because that strain was reclassified in Gasiorek et al. Zootaxa 2018 (https://pubmed.ncbi.nlm.nih.gov/30313631/ ).; ##Genome-Assembly-Data-START## ; Assembly Method :: Platanus v. 1.2.3 ; Assembly Name :: nHd_3.1 ; Genome Coverage :: 113.0x ; Sequencing Technology :: PacBio; Illumina HiSeq ; ##Genome-Assembly-Data-END##",
+  "assembly": {
+    "accession": "GCA_002082055.1",
+    "assembly_name_as_deposited": "nHd_3.1",
+    "wgs_prefix": "MTYJ01",
+    "bioproject": "PRJNA360553",
+    "biosample": "SAMN06212344"
+  },
+  "scaffold": {
+    "accession": "MTYJ01000015.1",
+    "length": 832999,
+    "slice_start_1_based": 723181,
+    "slice_end_1_based": 728004,
+    "slice_length": 4824,
+    "slice_ambiguous_bases": 0,
+    "bases_from_cds_end_to_scaffold_end": 105995
+  },
+  "gene_note_crosswalk": {
+    "locus_tag": "BV898_03327",
+    "note": "bHd16413",
+    "status": "directly supported by retrieved nucleotide gene annotation",
+    "individual_bHd16413_1_2_assignments": "not present in retrieved annotations; not sequence-verified across nHd.3.0 expression and nHd_3.1 genome builds"
+  },
+  "models": {
+    "A0A1W0X5S1": {
+      "protein_id": "OQV22896.1",
+      "locus_tag": "BV898_03327",
+      "protein_length": 423,
+      "cds_length_including_stop": 1272,
+      "start_codon": "ATG",
+      "stop_codon": "TAG",
+      "strand": "+",
+      "cds_exons_1_based_inclusive": [
+        [
+          724181,
+          724402
+        ],
+        [
+          724978,
+          725113
+        ],
+        [
+          725647,
+          725726
+        ],
+        [
+          725933,
+          726089
+        ],
+        [
+          726202,
+          726293
+        ],
+        [
+          726351,
+          726906
+        ],
+        [
+          726976,
+          727004
+        ]
+      ],
+      "cds_ambiguous_bases": 0,
+      "translation_matches_ncbi_protein": true,
+      "translation_matches_uniprot": true,
+      "translation_matches_nucleotide_annotation": true,
+      "cds_sha256": "942eafea4d3abde81995efb9cd0590dfb7adb46fcadacc56c9009022a6680e8d",
+      "protein_sequence_sha256": "e89aaff5a8c7d6b3c52cf75f86aeb0d0fff211a65831f8f2e536e81c1a2a14c6",
+      "uniprot_entry_audit": {
+        "firstPublicDate": "2017-06-07",
+        "lastAnnotationUpdateDate": "2025-02-05",
+        "lastSequenceUpdateDate": "2017-06-07",
+        "entryVersion": 18,
+        "sequenceVersion": 1
+      },
+      "protein_record_update_date": "04-MAR-2022",
+      "annotation_method": "Derived by automated computational analysis using gene prediction method: BRAKER v1.9"
+    },
+    "A0A1W0X5M8": {
+      "protein_id": "OQV22897.1",
+      "locus_tag": "BV898_03327",
+      "protein_length": 428,
+      "cds_length_including_stop": 1287,
+      "start_codon": "ATG",
+      "stop_codon": "TAG",
+      "strand": "+",
+      "cds_exons_1_based_inclusive": [
+        [
+          724181,
+          724402
+        ],
+        [
+          724978,
+          725113
+        ],
+        [
+          725647,
+          725726
+        ],
+        [
+          725933,
+          726104
+        ],
+        [
+          726202,
+          726293
+        ],
+        [
+          726351,
+          726906
+        ],
+        [
+          726976,
+          727004
+        ]
+      ],
+      "cds_ambiguous_bases": 0,
+      "translation_matches_ncbi_protein": true,
+      "translation_matches_uniprot": true,
+      "translation_matches_nucleotide_annotation": true,
+      "cds_sha256": "f686775d22aa6eaf15b39a0d71e074898517c7492b24e67a8e5fa09306867942",
+      "protein_sequence_sha256": "0035d4a31fe3b5991a0935145340bbe0d631d2e38425743638356c2b8abe8bc6",
+      "uniprot_entry_audit": {
+        "firstPublicDate": "2017-06-07",
+        "lastAnnotationUpdateDate": "2025-02-05",
+        "lastSequenceUpdateDate": "2017-06-07",
+        "entryVersion": 18,
+        "sequenceVersion": 1
+      },
+      "protein_record_update_date": "04-MAR-2022",
+      "annotation_method": "Derived by automated computational analysis using gene prediction method: BRAKER v1.9"
+    }
+  },
+  "alternative_boundary": {
+    "changed_coding_exon_number": 4,
+    "X5S1_interval_1_based_inclusive": [
+      725933,
+      726089
+    ],
+    "X5M8_interval_1_based_inclusive": [
+      725933,
+      726104
+    ],
+    "added_genomic_interval_1_based_inclusive": [
+      726090,
+      726104
+    ],
+    "added_nucleotides": "GTCCGATTACTTGCA",
+    "added_nt_length": 15,
+    "interpretation": "alternative 5-prime splice donor boundary in the deposited plus-strand model; not an alternative acceptor",
+    "X5S1_donor_dinucleotide": "GT",
+    "X5M8_donor_dinucleotide": "GT",
+    "shared_acceptor_dinucleotide": "AG",
+    "coding_nt_count_through_X5S1_exon4": 595,
+    "protein_changes": [
+      {
+        "operation": "replace",
+        "X5S1_start_1_based": 199,
+        "X5S1_end_1_based": 199,
+        "X5S1_residues": "E",
+        "X5M8_start_1_based": 199,
+        "X5M8_end_1_based": 204,
+        "X5M8_residues": "GPITCK"
+      }
+    ],
+    "net_protein_length_difference": 5
+  },
+  "tool_record": {
+    "Life_Sciences_Databases_plugin": "documented NCBI-Entrez and UniProt scripts attempted with /usr/bin/python3, both failed",
+    "exact_error": {
+      "ok": false,
+      "error": {
+        "code": "missing_dependency",
+        "message": "`requests` is required: No module named 'requests'"
+      },
+      "warnings": []
+    },
+    "successful_retrieval": "Python standard-library urllib to NCBI E-Utilities and UniProt REST; separately credited local retrieval",
+    "calculation": "this script parses coded_by intervals, joins genomic bases, uses standard genetic code 1, checks deposited translations and compares sequences",
+    "new_installations": false
+  },
+  "limitations": [
+    "Original S1/S3/S4 reports and historical genome-audit scripts remain unavailable.",
+    "The public records retain versioned sequence identifiers, but current annotation metadata were retrieved now.",
+    "No raw RNA reads were aligned; annotated splicing and translation are not experimental validation.",
+    "The 4,824-bp slice verifies no ambiguous bases within that slice and both CDSs only; no 50-kb flank gap claim is reproduced.",
+    "mRNA and gene annotations have uncertain terminal bounds (< and >); complete coding models do not establish transcript ends.",
+    "bHd16413 is directly annotated at the gene, but individual .1/.2 transcript identities across expression/genome reference builds remain unverified."
+  ]
+}

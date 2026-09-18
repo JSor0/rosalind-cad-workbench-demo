@@ -1,0 +1,16 @@
+{
+  "JobName": "cad_foldmason_22_20260917",
+  "JobStatus": "Complete",
+  "Created": "2026-09-17 18:49:50",
+  "Type": "foldmason",
+  "Started": "2026-09-17 19:00:11",
+  "Completed": "2026-09-17 19:00:30",
+  "TamarindSchemaVersion": "1.0",
+  "statuses": {
+    "Complete": 1,
+    "In Queue": 0,
+    "Running": 0,
+    "Stopped": 0
+  },
+  "checked_utc": "2026-09-17 19:03:02 UTC"
+}
